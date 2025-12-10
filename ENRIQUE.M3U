@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #*****************************CANALES DE EL SALVADOR
 #*****************************
@@ -72,59 +72,209 @@ http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TZt7wmovYUHDGPZNQuWDcI
 #*****************************CANALES INFANTILES
 #*****************************
 
-#EXTINF:-1,DISNEY JR
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bV9-9Hfl2tvt3cdDq543PM
+#EXTINF:-1,DISNEY JR. Opc. 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpOIEEM_yy3sXVzS-YGoVj4
+#EXTINF:-1,TOONCAST Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kuzcj4-m6-JlO27mcM8uaFc
+#EXTINF:-1,NICK Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiaavkJV3qBBzGYe2afRA5M
+#EXTINF:-1,DREAMWORKS
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KoebDeT79sfShvPOh_zCB-k
 
-#EXTINF:-1,CARTOON NETWORK
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VwVnbXThn-j53_R016tN2Y
+#EXTINF:-1,DISCOVERY KIDS Opc.1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Klww-U7375mLEQNqkUSLGpo
+#EXTINF:-1,CARTOON NETWORK Opc. 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kibw-khhCMloHWItsXPNyYc
+#EXTINF:-1,PLIM PLIM
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiAJEI9C2LLQ7CHSUXr6Mz0
+#EXTINF:-1,BITME Opc. 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhTwox7YzFuIPQk3Zfu9wL0
+#EXTINF:-1,BOING Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kp0JSJ3o2sSOYHsZTvQCwlk
+#EXTINF:-1,CARTOONITO Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ko5Oai_G3Y7r2HMb3Kwzz2Q
+#EXTINF:-1,BABY TV Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnzHQOPVXUp45HieemoWwO4
+#EXTINF:-1,BABY FIRST
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjR8_3KcvDjk9C3NkRAr43Y
+#EXTINF:-1,PAKA PAKA
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkPMr0D-q47fiWmcXrNbpBk
 
-#EXTINF:-1,24/7 SOUTH PARK
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Ws9Sh1k-us2fNyGx4VMeu4
+#EXTINF:-1,TOONCAST Opc. 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KgfGsxMX5sEO--RIRHWMsag
+#EXTINF:-1,NICK JR
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmC_RI9XqtCCFV3uVNRvPc4
+#EXTINF:-1,DISNEY JR. Opc.1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtEqkKGcQwK1sYbzBlEtufE
+#EXTINF:-1,CARTOON NETWORK Opc. 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KojJPiTNBoC4VMCcdltK_XE
 
-#EXTINF:-1,24/7 HEIDI
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3b80bey1hfhHvXFz3ldTIO0
+#EXTINF:-1,24-7 Dinosaurios
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtlaQh0j1VV1rcTrgSJR3CA
 
-#EXTINF:-1,24/7 Bob Esponja
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VWEhMKgeYcd4NofIHzwxic
+#EXTINF:-1,24-7 EL CHAPULIN COLORADO 24/7
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KioQY3swJODtbV4aFPBTqBg
+#EXTINF:-1,24-7 El Chavo del 8
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KshcWxov7-jkBkg5bJy2omE
 
-#EXTINF:-1,24/7 Un Cachorro Llamado Scooby Doo!
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XBctfCCgV47cZB1xkgq0RQ
+#EXTINF:-1,24-7 Futurama
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kl-KaJnAEPC1oDLmaTRXZeg
+#EXTINF:-1,24-7 Futurama op2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpTcn7zfNMRqE82wYqUuwTs
 
-#EXTINF:-1,24/7 Dragon Ball Z Saga de Freezer
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UNSo3PVbmToKq9D9PTuUrs
+#EXTINF:-1,24/7 | La Familia de Barrio
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnRA4RXvWOhCKkqyw1_O6mc
+#EXTINF:-1,24-7 Las chicas superpoderosas
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kk98tNfaFfeZWwGeGjInnE8
+#EXTINF:-1,24-7 LOS SIMPSONS
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjDcvhixK6o7Dwo0dMUnwaU
+#EXTINF:-1,24-7 Los Picapiedras
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KirUWzlADOoOW60tug7A_Iw
 
-#EXTINF:-1,24/7 Dragon Ball Z Saga Androides
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Zh12wy9digZdWy8jEFfP0g
+#EXTINF:-1,24-7 Masha y el Oso
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmONTf6uPsW8LZJcG4VbYac
+#EXTINF:-1,24-7  Madagascar
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqeDpDztI9vbv92OIRb8mNw
 
-#EXTINF:-1,24/7 Dragon Ball Super
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3c1BEiSamBoI5hpK-muxTTk
+#EXTINF:-1,24-7 Phineas y Ferb
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqLgGi2ZoDfHdk0DiHk1oN4
+#EXTINF:-1,24-7 Pato aventura
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtwmFAoFplyw6nq6W0nXkDg
 
-#EXTINF:-1,24/7 Dragon Ball GT
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RiqFIbPXRkFNo8msVO6tP0
+#EXTINF:-1,24-7 South Park
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kk4K_q9s_Q8QR7bRuzVXmZ4
 
-#EXTINF:-1,24/7 Los Picapiedras
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cmBi2Ve_lrZP5TJU8lLdrs
+#EXTINF:-1,Tom Y Jerry
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KvV3Fo-vZdJm8OJmuBw6hZA
 
-#EXTINF:-1,24/7 Los Muppets Babies
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZsUzfh7rXbbeVhf-EdkhaQ
+#EXTINF:-1,24/7 | Jurassic Park
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiUFR4DkIHVolcr6uBghL-w
+#EXTINF:-1,24/7  Looney Tunes
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtN_DNEL3Wq_Py8ySH-eUqk
 
-#EXTINF:-1,24/7 Don Gato Y Su Pandilla
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Y4ryUtQynYV2OZJ7S44M0Y
+#EXTINF:-1,24-7 Bob Esponja op2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhYnzJnaQ3IQRZc3jSIww70
 
-#EXTINF:-1,24/7 Tom & Jerry
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fDk78Tfbf7MSmruXuRY45g
+#EXTINF:-1,24-7 Animaniacs
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KlA6Qxb7-7atLBJa8wxeWYo
+#EXTINF:-1,24-7  PAW Patrol
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqgK-w62ZG4nCNQRZcDZrYM
 
-#EXTINF:-1,24/7 Aaahh Monstruos
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cFNcjJb4Zv0ROd-7BWWHVY
+#EXTINF:-1,24/7 | Chapulin Colorado
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhloExs-5gNVZGAzGA4AiMI
 
-#EXTINF:-1,24/7 BeyBlade
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Tzl6Bry6oyZsRgyZwGkwMM
+#EXTINF:-1,24/7 | El Chavo del Ocho
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KvBz6toFpUUk8SWagJqBnp4
+#EXTINF:-1,24/7 | Chespirito
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kqw-wtMjK3i5OdTliN23V_8
+#EXTINF:-1,24/7 Los Supersonicos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KglkYb8I0TcxAeQUg4xH-TY
+#EXTINF:-1,24/7 | Tom y Jerry
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhwLedNVB3DtnHJVieSjgLM
+#EXTINF:-1,24/7 | ThunderCats
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kti-5FJxmSf-mIKvgqQq5o8
 
-#EXTINF:-1,24/7 Demon Slayer
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WrbVDVMe2n6tGbh6qe0g3c
+#EXTINF:-1,24/7 | Super Campeones
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnhRtgPt0bTWesaqmXlq4Xc
+#EXTINF:-1,24/7 | Steven Universe
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiX8DIE2Zqlw8VdUfq7i3pk
+#EXTINF:-1,24/7 | Soy la Comadreja
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KifDy7NcO6J9nqQMj-keBtg
+#EXTINF:-1,24/7 | Scooby-Doo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KoOnqI5xVh-jKDGvpJdmfiQ
+#EXTINF:-1,24/7 | Rugrats
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmdX4mR8GaAfhl4Y6SzedDM
+#EXTINF:-1,24/7 | Rick y Morty
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsBSJ7eOaWnUN-xN8ROy2ug
+#EXTINF:-1,24/7 | Recreo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KoHLuqmCIXSrtXBpxf7hfxA
 
-#EXTINF:-1,24/7 La Pantera Rosa
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ah-l8jZmDmfo74oK0IQlj0
+#EXTINF:-1,24/7 | Pokemon
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KlHmGyuuR8cVy1M5OX75KtU
+#EXTINF:-1,24/7 | Pinky y Cerebro
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjlFpcOqZch1MgYkBMBaR5c
+#EXTINF:-1,24/7 | Phineas y Ferb
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ko01vlcRIf8kyGoUjyt1Z24
+#EXTINF:-1,24/7 | Pato Aventuras
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kgjbu3Lg_DjhNh7ApXhmCfY
+#EXTINF:-1,24/7 | One Piece
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkR6ppI8LMzq1nUSZP2CDiM
+#EXTINF:-1,24/7 | Naruto
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KszVNzo7DNhBwXubTshhtTA
+
+#EXTINF:-1,24/7 | Mickey Mouse
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkSmaqoFJ-o-l41zaxaYjlM
+
+#EXTINF:-1,24/7 | Los Pitufos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ku1T35eAyGZySwMu6h3w5iE
+
+#EXTINF:-1,24/7 | Los Padrinos Magicos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnFDva8g_TDwpUHEvNCpl6I
+#EXTINF:-1,24/7 | Las aventuras de Jackie Chan
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kkau4ItKjCZV03H991ZUx7g
+
+#EXTINF:-1,24/7 | La Casa de los Dibujos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kr-sUO-ml_bcU0i7kvhUvq8
+#EXTINF:-1,24/7 | Johnny Bravo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Knp_O5-CtfFC7JNpopka0LE
+#EXTINF:-1,24/7 | Jimmy Neutrón
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KncrkVmtIsyCo4AQDKqMHE8
+#EXTINF:-1,24/7 | Hora de Aventura
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KrqTZPOUEEEOLgObwEPHz7A
+#EXTINF:-1,24/7 | Hey Arnold
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KujM_zVACO64gSkLfToQxxQ
+#EXTINF:-1,24/7 | Halcones Galacticos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KirMP7xTNa1D-hyIyEHIgVs
+#EXTINF:-1,24/7 | Gatos Samurai
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kqn1J_EWJATf3hKgGaiOtJs
+#EXTINF:-1,24/7 | Garfield y sus Amigos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kh0Og3xfXsnQXCgDoTHG0VA
+#EXTINF:-1,24/7 | El pajaro loco
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Khu74zUK0gHUMH6VEz-BEtY
+#EXTINF:-1,24/7 | El Coyote y el Correcaminos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsR3282DOIkvWPxa97eZqcc
+#EXTINF:-1,24/7 | Dragon Ball Androides
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjDnt7dQvY-mT33nuQbnSpA
+#EXTINF:-1,24/7 | Castores Cascarrabias
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ku_F86HpPgxyZwpdDBoXmjA
+#EXTINF:-1,24/7 | Bob Esponja
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KoysPqyXa_JjLwlaFEHkVQ4
+
+#EXTINF:-1,24/7 | Dora la Exploradora
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhlMBvXe8d73Vsj4fsETqmM
+
+#EXTINF:-1,24/7 Hey Arnold
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks-Pm7viXjcoXl_Zc2LOt3Q
+#EXTINF:-1,24/7 Los Padrinos Magicos
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kij6nXmgCgiSdlWYe5BVBP8
+#EXTINF:-1,24/7 Paw Patroll
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiXPBO6DYT3txemwBC-hXo4
+#EXTINF:-1,24/7 Pocoyo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ku0czGXyKih8jf2x--iPOjs
+#EXTINF:-1,24/7 | Toy Story
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kuug8jV6RlpAuoLzSfu4yxI
+#EXTINF:-1,24/7 | Shrek
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnYFhTjoQ5dQpBK7NeV0FxY
+#EXTINF:-1,24/7 | La era de hielo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqeirHsDnM-RwzjQ8aNsHLU
+#EXTINF:-1,24/7 | Clasicos de Disney
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kvl7QB4T8fxAzUDkW4o3eGM
+#EXTINF:-1,24/7 | Cine infantil
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kj0qWvydo-cvQueXNvFnshw
+
+#EXTINF:-1,24/7 | Pixar Movies (ENG)
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KllIgjNCOpnn-7yH0oZIJ0I
+
+#EXTINF:-1,24/7 | Family Movies
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtnIAdlNE77ZfS27QMa18jg
+#EXTINF:-1,24/7 | Dreamworks Movies (ENG)
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kkj26I0RZJ1MsBuXW8BMvUU
+
+#EXTINF:-1,24/7 | Animation Movies
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kgad5aUc3-PQ-NDNrK33BRQ
+
+#EXTINF:-1,24/7 | Action Movies
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kpdd-WN7PgKzcbA1iXt9W9g
 
 #*****************************CANALES DE HONDURAS
 #*****************************
@@ -328,85 +478,88 @@ http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cNQ4s38MISmvq04ddxfmzk
 #*****************************
 
 #EXTINF:-1,UNIVISION HOUSTON
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3V9oRjksQajL6-V1kObi6_s
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KltUzql7WXGeReQIvN0clKE
 
 #EXTINF:-1,UNIVISION DALLAS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3di6l05ckcfjQ3KunBcXHj8
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KviiYYmjOwACebgCsm8l_04
 
 #EXTINF:-1,UNIVISION LOS ANGELES
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RABP1wtbCxZNkzcRNe6Ghc
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqFGNfT2VuUOHz9_Uin1Bd8
 
 #EXTINF:-1,UNIVISION MIAMI
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W1e1NHDf91cm3zvNa1H2lM
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpNr5jwMzlziTkJB0mNSlqs
 
 #EXTINF:-1,UNIVISION WASHINGTON
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3e5N_3WHWWTBMS4-GMfYs7c
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KktExgms5cstraQI12KLgLg
 
-#EXTINF:-1,UNIVISION NEW YORK
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cnsGdILVT5sc0ph6lWWzcI
+#EXTINF:-1,Univision New York
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjZxV9NV4xqubInRpFmVcCw
 
 #EXTINF:-1,UNIVISION TELENOVELAS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VjsG361pTnvQQEHglWu0yw
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kmy9M5n5akVjHwFL4IgR0TY
+
+#EXTINF:-1,UNIVISION NOTICIAS
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsAO_0jXx3gwm8OH5bJ8p4A
 
 #*****************************CANALES DE TELEMUNDO
 #*****************************
 
 #EXTINF:-1,TELEMUNDO GALVESTON
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bgBDy774vQ7NTfjWlVPxQE
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhodHtcBJ1NfaKmpWOYx264
 
 #EXTINF:-1,TELEMUNDO HOUSTON
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VpshqynJ7YD0wWlsiuJ17k
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kkqe3LXQbJBJFBdpF01UNyE
 
 #EXTINF:-1,TELEMUNDO SAN ANTONIO TX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QUjVULyh8HL5CRCTj82u14
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjGUIvJxtIlfdmacWCDYYP8
 
-#EXTINF:-1,TELEMUNDO DALLAS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dbdAPkN4mLo0DNlBzZvwi8
+#EXTINF:-1,TELEMUNDO 39 DALLAS TX HD
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnDCTaLnWKgGVwtpTQAnFoc
 
 #EXTINF:-1,TELEMUNDO LOS ANGELES
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W-WkxDMUKd8Z_7GTahYdNA
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsB1BzSckYGpzXNUXU5I5F8
 
 #EXTINF:-1,TELEMUNDO MIAMI
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W51OjK7Dtt-mUvLK-78VaY
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Knssh0bM_Pb1kDnrlFVfXTg
 
 #EXTINF:-1,TELEMUNDO WASHINGTON
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UqGlxXHq4C2Rq5IueKr7dY
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqqSHUoamwP2OGjXvsmlHFc
 
 #EXTINF:-1,TELEMUNDO NEW YORK
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dr10Kg9cqUSQztCfLAES-M
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KktvLOzrZ9dNF1z6pVodRqk
 
 #*****************************CANALES DE GALAVISION
 #*****************************
 
 #EXTINF:-1,GALAVISION HOUSTON HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bCbxBtywV8o5WB5a4LBCi4
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kr5f2p2i6r8Wosm7s9SCmhE
 
 #EXTINF:-1,USA | GALAVISION SAN ANTONIO
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Qtn74_dRzu4avpuCYaeA1w
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpjlphkZ84rhYLfbgPc9LJk
 
 #EXTINF:-1,GALAVISION LOS ANGELES HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W4cUqnuzrnLXA-24KlPvYo
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkKNg4K0YS8lvLoxh4ubDWk
 
 #EXTINF:-1,USA | GALAVISION MIAMI
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QHtbOYO5gp7BtNgsomvtKY
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KgbbDoxFLHdta9w1qEJVIK8
 
 #EXTINF:-1,GALAVISION NEW YORK HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WtrgwQuOwhZzwMSWPHa3w0
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks0QfqaZOhNg80AMGX9FH0I
 
 #*****************************CANALES DE UNIMAS
 #*****************************
 
-#EXTINF:-1,UNIMAS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ebzie47peU6OtAnqT1w7H8
+#EXTINF:-1,LAT USA | UNIMAS
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks_f0CWbJPyN5bNOOw865tE
+
+#EXTINF:-1,LAT USA | Unimas Los Angeles
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kg2nGkHizvRuCCSTJXvhEnI
 
 #EXTINF:-1,Unimas Miami
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SFOBJWNyChr5bwMWwabRs4
-
-#EXTINF:-1,Unimas Los Angeles
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VwCA1TM3ZUowikjItKt51g
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtYgZCPWKr-8RcNi-YHEwsc
 
 #EXTINF:-1,UNIMAS NEW YORK
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3d6t8T_-qk9cbbhoE12-6lQ
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiiMIiKG8aSiLehulpx-XfQ
 
 #*****************************CANALES DE VIX
 #*****************************
