@@ -1,76 +1,87 @@
 #EXTM3U
 
 #*****************************CANALES DE EL SALVADOR
-#*****************************
+#***************************** 1
 
-#EXTINF:-1,CANAL 2 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZGW5Kxs2MSWD_mFOYG1eNw
+#EXTINF:-1 xui-id="570812" tvg-id="Canal.2.de.El.Salvador.sv" tvg-name="CANAL 2 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122126/Canal-2-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 2 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1i9G7s84cjsSRMBI-MHMdDYA249t-ReNjCGrcp3Zhc5
 
-#EXTINF:-1, tvg-id="Canal 3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
-https://cloud2.streaminglivehd.com:19360/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="General",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 
-#EXTINF:-1,CANAL 4 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YTxb-rPBtb6rva8ztfL76c
+#EXTINF:-1 xui-id="570823" tvg-id="Canal.4.de.El.Salvador.sv" tvg-name="CANAL 4 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122123/Canal-4-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 4 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0BlQ7s5YeAHxCBSKFM4ShKgtccnKCY-baEaLXPwmfEk
 
-#EXTINF:-1,CANAL 6 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VlUukmrBd-gin1X2MXYdRs
+#EXTINF:-1 xui-id="570828" tvg-id="Canal.6.de.El.Salvador.sv" tvg-name="CANAL 6 OPC1" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122120/Canal-6-1080x1080-1.jpg" group-title="EL SALVADOR",CANAL 6 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1-aHaw3XVREqCZNzsmUBb6Sr4eL6xBoLju4NHUlxeA5
 
 #EXTINF:-1, tvg-id="Canal 8 agapetv.sv" tvg-logo="https://agapetv8.com/wp-content/uploads/2024/08/logo-header-9.png" group-title="General",Canal 8 agapetv (480p)
 https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/chunklist_w1930392003_b1428000_sleng.m3u8
 
-#EXTINF:-1,CANAL 10 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RwnZalv9-41UpFb-vHVuqY
+#EXTINF:-1 xui-id="570799" tvg-id="" tvg-name="CANAL 10 OPC1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRy4-yuO8tGnStAZSbmRcCRXXYIsOXnXJHnA&s" group-title="EL SALVADOR",CANAL 10 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0rDnt3Vc25-V0s5M5Bt_uJjgKvrmkDg-kXPnGHsw2e3
 
-#EXTINF:-1,CANAL 11 TUTV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WJKaz8SMTLGYJbA7FR2HLc
+#EXTINF:-1 xui-id="570803" tvg-id="" tvg-name="CANAL 11 TUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TUTV_11_2014.png" group-title="EL SALVADOR",CANAL 11 TUTV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0qL0UPhyrGW1C7xruhvkB2duk-1w0Q4JsR9Qsp-Mm_Q
+#EXTINF:-1 xui-id="570804" tvg-id="Canal.12.de.El.Salvador.sv" tvg-name="CANAL 12 OPC1" tvg-logo="https://iconape.com/wp-content/png_logo_vector/canal-12-el-salvador-logo.png" group-title="EL SALVADOR",CANAL 12 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3dQMnrJOlTPXnJLutle5uB62U7gU0Jc0P3p6rQp07Bi
 
-#EXTINF:-1,CANAL 12 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZFqlnVNwToYEUoeDLFo0ho
+#EXTINF:-1 xui-id="570811" tvg-id="" tvg-name="Canal 19 ®" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JIPUkbtxK-Tt5-o49pj7ZTbfLzky7PBpFFi68QlfredH.png" group-title="EL SALVADOR",Canal 19 ®
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9JJbsU7l0wBx1Yg_uiCjcrgNYFN4D9UkfW_0smY58gH
+#EXTINF:-1 xui-id="570816" tvg-id="Canal.21.de.El.Salvador.(Megavisión).sv" tvg-name="CANAL 21 OPC1" tvg-logo="https://i.ytimg.com/vi/fCADRn91MtE/sddefault.jpg" group-title="EL SALVADOR",CANAL 21 OPC1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4TV_KidkC1oJvjOw9wVYNPe9ZijlIgtZ0GATLRBFNCC
 
-#EXTINF:-1,Canal 19 ®
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Ugam98Piyxq0sg9kTnrQlw
+#EXTINF:-1 xui-id="570850" tvg-id="TVO Canal 23.sv" tvg-name="TVO Canal 23" tvg-logo="https://i.ibb.co/k0Z5s6t/tvo-1.png" group-title="EL SALVADOR",TVO Canal 23
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxjO81OgJv_W4R2gvlq_qaRnunGu05AIe93jBgn5Eelb
 
-#EXTINF:-1,CANAL 21 OPC1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dGUA2u7_uci2wrseka6h_o
-
-#EXTINF:-1,TVO Canal 23
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3brIlxlpfhrT_lSOGKBCuh0
-
-#EXTINF:-1,TCS+
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ev90W4Jnq1iyRpX-o22y3g
+#EXTINF:-1 xui-id="570829" tvg-id="" tvg-name="Canal TVM" tvg-logo="http://icomplay.net:80/images/DLu6wPayhmXi4Shb7v3BIgKFq88Dg2b0nLU8ZEYcEalk3D_OTVjKALAOgZAscOIE.png" group-title="EL SALVADOR",Canal TVM
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q24oJPEssBvVGcOdfbp0CLJ8PuFzNiT782Hq-ZEftXww
 
 #EXTINF:-1, tvg-id="RTVCanal57.sv" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="General",RTV Canal 57 (720p)
 https://stream.giostreaming.app:19360/rtvcanal57/rtvcanal57.m3u8
 
-#EXTINF:-1,Canal TVM
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3c9E5xIG6oiYSvic2fagqvQ
+#EXTINF:-1 xui-id="646695" tvg-id="" tvg-name="TCS+" tvg-logo="https://d21tucfpen3j82.cloudfront.net/wp-content/uploads/2024/11/22122117/Canal-TCSPLUS-1080x1080-1.jpg" group-title="EL SALVADOR",TCS+
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1qiCYs1SswSTcvjDQ3G5R0_0-C_v9kl1KynlYbgPRxk
 
-#EXTINF:-1,Wow TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3T3cgX8SH6U-2nwXUNX7Yps
+#EXTINF:-1 xui-id="570854" tvg-id="" tvg-name="Wow TV" tvg-logo="https://i.ibb.co/BnP3wCw/wow-tv.png" group-title="EL SALVADOR",Wow TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4jqGo-fH7_9TSHbKzLwTpvuzHof40R8XVhhi7FqWqdS
 
-#EXTINF:-1,CENTROAMERICA TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TRJFqdIY_LtcrWjzZOTdN4
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-logo="https://i.imgur.com/OBuiCyb.png" group-title="Legislative",Legislative Assembly of El Salvador (1080p) [Not 24/7]
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 
-#EXTINF:-1,TIGO SPORTS (SOLO EVENTOS) 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XYCCHWMKN1khPx-i4O-E1g
+#EXTINF:-1 xui-id="569008" tvg-id="" tvg-name="CENTROAMERICA TV" tvg-logo="https://pbs.twimg.com/media/Eu_yYz-WYAEOzMz.png" group-title="EL SALVADOR",CENTROAMERICA TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_D3xPuGMpVbcMS0x0c3csTzKuCcUc93dYtODH6ewmtL
 
-#EXTINF:-1,TaberTv
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZfK8nwpEfojDQqWtRWCnYE
+#EXTINF:-1 xui-id="570844" tvg-id="" tvg-name="TIGO SPORTS (SOLO EVENTOS) 1" tvg-logo="https://play-lh.googleusercontent.com/AaH2aYDblSifv-zVr6oBEKDXsQy6fYl1o2KdzRh0S0ahjbtjtelkJc5oLZwAWVd9vmM" group-title="EL SALVADOR",TIGO SPORTS (SOLO EVENTOS) 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9LaI34ty7LZlQkhlNSNnznOxnFmfxsfbAE2i4f_c5TM
 
-#EXTINF:-1,ELIM TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RcxK437Nx5j85eboPbSCtE
+#EXTINF:-1, tvg-id="Canal 26.sv" tvg-logo="https://canal26.org/wp-content/uploads/2021/08/logo_hd.fw_.png" group-title="General",Canal 26 (720p)
+https://vdo.tecnoservix.stream:3899/live/canal26tvlive.m3u8
 
-#EXTINF:-1,EL CAMINO
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TM0CPob3MjjAKSOD3ctrmg
+#EXTINF:-1, tvg-id="JFV TU CANAL DE FE.sv" tvg-logo="https://www.radiojesucristofuentedevida.com/img/iconlogo.png" group-title="General",JFV TU CANAL DE FE
+https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/chunks.m3u8
 
-#EXTINF:-1,TV LEON DE JUDA
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Y8xakyV28RKhW1nzE7hCOc
+#EXTINF:-1 xui-id="570831" tvg-id="" tvg-name="EL CAMINO" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb8UwSCAWcQUQj1nvpixTYMdVUQ3lG8HQm5KM9Y=s900-c-k-c0x00ffffff-no-rj" group-title="EL SALVADOR",EL CAMINO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7MhtLscZI0My3QYxxhfTX8zPsmoUz9aEqu98Z5KUcUT
 
-#EXTINF:-1,TVCA
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TZt7wmovYUHDGPZNQuWDcI
+#EXTINF:-1, tvg-id="TV CRET.sv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ee2b2ea9b1af3211e9f51ab1d8f87c2.webp" group-title="General",TV CRET
+https://radiocret.net:8082/hls/tvcret.m3u8
+
+#EXTINF:-1 xui-id="570832" tvg-id="" tvg-name="JOSUÉ TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmztyNEEe8sJnpm-zb9vYmIWjsfvHNdFb8zwlZHbK2iw&s" group-title="EL SALVADOR",JOSUÉ TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0MdCndZ8vo4vTCeeky2vehzc9nJDOUQU28wprYNwanK
+#EXTINF:-1 xui-id="570840" tvg-id="" tvg-name="TaberTv" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Taber-TV-Canal-17-El-Salvador-en-vivo-Online.png" group-title="EL SALVADOR",TaberTv
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5yJsEATnU1ZvBJoNjHmZP76xe4hQ0lPlQtnerx-6WyV
+
+#EXTINF:-1 xui-id="623750" tvg-id="" tvg-name="TV LEON DE JUDA" tvg-logo="https://tvleondejuda.com/data/files/04logo.png" group-title="EL SALVADOR",TV LEON DE JUDA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3grSFje65NcGf05-zrOs2bFDXZzSSLhkojgv3p4eI2I
+#EXTINF:-1 xui-id="570847" tvg-id="" tvg-name="TVCA" tvg-logo="https://lh3.googleusercontent.com/JqfzWmvTJ4WW6MgjV6478Ceowx35f-W-7tsLuxzl0gqHIivnzPilKrfNI6Q3vpF1sRJT" group-title="EL SALVADOR",TVCA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4mwH33eczwLf7KVC9VA6dVgfcoZwcOevhK5NMoECIQk
+
+#EXTINF:-1 xui-id="587784" tvg-id="" tvg-name="ELIM TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9L_FY9OB_wen0_7VrrZlF3OCGDJcLWqilzg&s" group-title="EL SALVADOR",ELIM TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0Ua0MyKfUCdFda-rUNX4MQJYHqYguKCcWPBhJJYOehY
 
 #*****************************CANALES INFANTILES
-#*****************************
+#***************************** 2
 
 #EXTINF:-1,DISNEY JR. Opc. 2
 http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpOIEEM_yy3sXVzS-YGoVj4
@@ -276,116 +287,280 @@ http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kgad5aUc3-PQ-NDNrK33BRQ
 #EXTINF:-1,24/7 | Action Movies
 http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kpdd-WN7PgKzcbA1iXt9W9g
 
+#EXTINF:-1 xui-id="581292" tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Animaniacs
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7VqT_KkRTSLuifd-2Nq_SCMi3yWHkan-iS8Yi5_SWpS
+
+#EXTINF:-1 xui-id="581293" tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Bob Esponja
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1nd1gRhI733Tw5Av3O9ozARMopDsA5gUsRpvhdd0EXZ
+#EXTINF:-1 xui-id="555997" tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Bob Esponja
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1IfiJXXOzj7K47yebkRizRSJgF3XAYrbXz3vQtgNPtg
+
+#EXTINF:-1 xui-id="555936" tvg-id="" tvg-name="24/7 | Cine infantil" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Cine infantil
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QywymU_jNIPvci-SFvjeBDTUKzcEE41-s9sTQVZfgolH
+#EXTINF:-1 xui-id="555939" tvg-id="" tvg-name="24/7 | Clasicos de Disney" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Clasicos de Disney
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6KDIuMRihI0Vve-8XXcKI_kt15GHeAUIycfg44PvAt0
+
+#EXTINF:-1 xui-id="555995" tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Coraje El Perro Cobarde
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1bJzuYwpWpImgfmkZ0MaUtMXSDZ5R2EeIb-UIFDXMdf
+
+#EXTINF:-1 xui-id="581295" tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Dinosaurios
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0xsw1VpsIFEAGYt4zqRSskH0r2kCb9di77H5qSiZTxi
+
+#EXTINF:-1 xui-id="555994" tvg-id="" tvg-name="24/7 | Dora la Exploradora" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Dora la Exploradora
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6SZSJ3tKXAQ0IP10GTCAvmsEccjPyDBjBacuWc3cFm9
+#EXTINF:-1 xui-id="556004" tvg-id="" tvg-name="24/7 | Dragon Ball Androides" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Dragon Ball Androides
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzNxZlOfEPQabBrZ5i2msAb89fsyR7iMP78XVgKNQ2s5
+#EXTINF:-1 xui-id="576190" tvg-id="" tvg-name="24/7 | Dragon Ball z" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Dragon Ball z
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1y5LtjjvWPLKl-GM-ahdLUupM5TVEG7bqjQkXh_pihI
+
+#EXTINF:-1 xui-id="556006" tvg-id="" tvg-name="24/7 | El Coyote y el Correcaminos" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | El Coyote y el Correcaminos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_gifhO3CTYzprrRG9nh3PbKfcLJH9Z_La6_x23gk6_l
+#EXTINF:-1 xui-id="556007" tvg-id="" tvg-name="24/7 | El pajaro loco" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | El pajaro loco
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzpD_q8ddFxu4xEl3FSjxwG87HeHlL7xcPRRUr76hNoS
+
+#EXTINF:-1 xui-id="581310" tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Futurama
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_rDTrndr08XbOkOjpUZ_a-YhkmjkbwbvkV3tjv6UwBm
+#EXTINF:-1 xui-id="556008" tvg-id="" tvg-name="24/7 | Garfield y sus Amigos" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Garfield y sus Amigos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2NCcRYoScjMZr2uQwpF5bR6RaSRD8PFlG6_9NgHTj3g
+#EXTINF:-1 xui-id="556009" tvg-id="" tvg-name="24/7 | Gatos Samurai" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Gatos Samurai
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwVtpE0ZYfoRCkiHdf0Ifvsci7r-WKu8VCg8Fkn8UJ1S
+
+#EXTINF:-1 xui-id="556010" tvg-id="" tvg-name="24/7 | Halcones Galacticos" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Halcones Galacticos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxHjhmS6Bx3dsj-CpW56r7mX_BdMOizFiiygLFf-fJh8
+
+#EXTINF:-1 xui-id="556012" tvg-id="" tvg-name="24/7 | Hey Arnold" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Hey Arnold
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1LjlRpbtXqcMTW1gqI9Ahnk_1hbXP5Tgt8dA2Lj-Ap8
+
+#EXTINF:-1 xui-id="556014" tvg-id="" tvg-name="24/7 | Jimmy Neutrón" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Jimmy Neutrón
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-O1TqeCjdW5BtszjRb4KfkSIj6mr1C8msKVukxjQYvK
+#EXTINF:-1 xui-id="556015" tvg-id="" tvg-name="24/7 | Johnny Bravo" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Johnny Bravo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4YdB9HGCpzgqJ87EmXErZCb7pn8lam_g7lqgFvgLgY0
+
+#EXTINF:-1 xui-id="556016" tvg-id="" tvg-name="24/7 | La Casa de los Dibujos" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | La Casa de los Dibujos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6fUQQQ8faplbz1KyuyK9uzOAQq-Bawy8_ZpX3-j0pls
+#EXTINF:-1 xui-id="556017" tvg-id="" tvg-name="24/7 | La Familia de Barrio" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | La Familia de Barrio
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qw0C5K5zf_ushppGm0xi_BKY42zwJ--InIKEerVHv5Uc
+#EXTINF:-1 xui-id="556020" tvg-id="" tvg-name="24/7 | La liga de la justicia Animada" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | La liga de la justicia Animada
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1qiH1iRwUxtgiNwsOPSjaLE_heX15RlGjuXDk8Jbz3E
+
+#EXTINF:-1 xui-id="581288" tvg-id="" tvg-name="24/7 | Las sombrías aventuras de Billy y Mandy" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Las sombrías aventuras de Billy y Mandy
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8WvMu3Q2ZdDnXG5QEOt81M6KYN9VeBdC_AChTcYlmW_
+
+#EXTINF:-1 xui-id="581342" tvg-id="" tvg-name="24/7 | Looney Tunes" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Looney Tunes
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_s1sR0ZqUotJRXW_xhwVurLgETwAOgMmWdouAyd0tx9
+
+#EXTINF:-1 xui-id="556026" tvg-id="" tvg-name="24/7 | Los Padrinos Magicos" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Los Padrinos Magicos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-1g2Eig5WEUTczdHHhNFL2dtCE7PLTryblqrkz_hSxx
+#EXTINF:-1 xui-id="556027" tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Los Picapiedra
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qwf_KlqwdIz2WbU9D5GyshFkouJnxT_zUJAGWzJxxB--
+
+#EXTINF:-1 xui-id="581330" tvg-id="" tvg-name="24/7 | Los Simpsons" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Los Simpsons
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_id9DgZdOPZYlBn00bQa-1MAIpvgKHAaVarZOiJMOoI
+
+#EXTINF:-1 xui-id="581326" tvg-id="" tvg-name="24/7 | Madagascar" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Madagascar
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6YyHKa6T-coawo_Jm2bv9qR04jmSyiYHXczoBLM-6de
+
+#EXTINF:-1 xui-id="581334" tvg-id="" tvg-name="24/7 | Masha y el Oso" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Masha y el Oso
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8gizqjJTIX-XKmL4fBVpFOrEIvujI0ihmPQkWnaOaq2
+
+#EXTINF:-1 xui-id="556033" tvg-id="" tvg-name="24/7 | Mickey Mouse" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Mickey Mouse
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0Kb3FrCoDCssj5D0drNUkYtlJ10z-aDYSO1kf8bhOQf
+#EXTINF:-1 xui-id="556036" tvg-id="" tvg-name="24/7 | Mucha Lucha" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Mucha Lucha
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6mxQNxnvDdNaZdDpONLOKjuqcreshgbBICzM0zgoxkw
+
+#EXTINF:-1 xui-id="556038" tvg-id="" tvg-name="24/7 | One Piece" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | One Piece
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_z8HDgI4to59TzLOixOYYj13QfzmJG-VC-6t7EouFkX
+
+#EXTINF:-1 xui-id="581335" tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Padre De Familia
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3lyuYTbe_fZEZ_xnScPVC8ICj_10rf_mCDV3az6ePiP
+#EXTINF:-1 xui-id="581289" tvg-id="" tvg-name="24/7 | Paw Patrol" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Paw Patrol
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9rMEwUEWMSVYnv1KrM7RMnYrk_BT6yHIZstRjOQZVml
+#EXTINF:-1 xui-id="556041" tvg-id="" tvg-name="24/7 | Phineas y Ferb" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Phineas y Ferb
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3iUIHv9PgGHZ7kS8AfSnLUTnMv2_CDG6NhqZ9ldowZ4
+#EXTINF:-1 xui-id="556043" tvg-id="" tvg-name="24/7 | Pinky y Cerebro" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Pinky y Cerebro
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2qCdM_tLDIZhc6toVYpDgq_jgEhIrsJxQMHRydDhaV3
+
+#EXTINF:-1 xui-id="555987" tvg-id="" tvg-name="24/7 | Pocoyo" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Pocoyo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4ne6ZoflLotdVGxQqisD51D5c59uW5UDdzvMeqeviAE
+#EXTINF:-1 xui-id="556044" tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Pokemon
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q74HBazgUTVI7iCiM6MpfB0n_YiGP8SpTrnGRVyJp1wO
+
+#EXTINF:-1 xui-id="556047" tvg-id="" tvg-name="24/7 | Recreo" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Recreo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4gkXZdn7-OOMcWw6JsYHEXz1FdP8ImnXuQTUl06bCHx
+
+#EXTINF:-1 xui-id="556051" tvg-id="" tvg-name="24/7 | Rugrats" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Rugrats
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8G9D12mP-DEFtFUPusjqdJvOdIgdIt9n0SRYF-sRtJH
+
+#EXTINF:-1 xui-id="556053" tvg-id="" tvg-name="24/7 | Scooby-Doo" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Scooby-Doo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9tJ307CV0pGEvkqN1L8zpSxDM4awmZLQx_Gv9S_rrjf
+#EXTINF:-1 xui-id="555973" tvg-id="" tvg-name="24/7 | Shrek" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Shrek
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qwwelvt2bRLhYpKkbITMJJ_KesflaZwA7zIJo5d_kkWJ
+#EXTINF:-1 xui-id="581338" tvg-id="" tvg-name="24/7 | South Park" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | South Park
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzhT7o76almcLpG1J3xqTU7pTGX3m3JG76miA-kWFuUy
+#EXTINF:-1 xui-id="556055" tvg-id="" tvg-name="24/7 | Soy la Comadreja" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Soy la Comadreja
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3mf892k-bDuHAkf9zm17VHG0YsRLWBAx0Z3AC9AediL
+
+#EXTINF:-1 xui-id="556058" tvg-id="" tvg-name="24/7 | Super Campeones" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Super Campeones
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-DlxB6SmXiScfDMqnKaTnrUKaWzONkKySWrP7k1QHPR
+#EXTINF:-1 xui-id="556059" tvg-id="" tvg-name="24/7 | Super Mario Bros. Super Show" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Super Mario Bros. Super Show
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6HLR6rCM0W9EbmePgBwyYSREHzS1oZaRopHq_0dseNz
+
+#EXTINF:-1 xui-id="556061" tvg-id="" tvg-name="24/7 | ThunderCats" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | ThunderCats
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8NFayPVUHVvjtuI6PC9ApGPmzpI5R0QijJpiwp9W5EK
+#EXTINF:-1 xui-id="556063" tvg-id="" tvg-name="24/7 | Tom y Jerry" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Tom y Jerry
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2z54Y9Kf_yMe3NwvIG6FS0pqU-Sd2fUaRs8v0FJqeoB
+#EXTINF:-1 xui-id="555980" tvg-id="" tvg-name="24/7 | Toy Story" tvg-logo="https://i.postimg.cc/MpKnpkLS/Imagen-de-Whats-App-2025-12-06-a-las-20-09-09-a624d80a.jpg" group-title="24/7 INFANTIL",24/7 | Toy Story
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-wCBYJUwkOFfUo-Uvql2agYJHvJgVy3x6WSUUqr3Z_8
+
+#EXTINF:-1 xui-id="673375" tvg-id="" tvg-name="CARTOONITO" tvg-logo="https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI" group-title="INFANTIL",CARTOONITO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6mPhz-l1xThrq3OqALkv77RYx_kLo-kVHW7CB8bBzbq
+
+#EXTINF:-1 xui-id="291116" tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="INFANTIL",DISNEY CHANNEL
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9-3lQRidDyYbr9xxrpbi_7bbdkNL1yp0VEw6CTdFrBA
+#EXTINF:-1 xui-id="290686" tvg-id="" tvg-name="DISNEY JR." tvg-logo="https://1000marcas.net/wp-content/uploads/2022/01/Disney-Junior-Logo.png" group-title="INFANTIL",DISNEY JR.
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_pYwq2taSpLDDbC3b5tfcuzfAbZVg9OMQQyClA1uNKT
+#EXTINF:-1 xui-id="659572" tvg-id="" tvg-name="DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/725px-2015_Disney_XD_logo.svg.png" group-title="INFANTIL",DISNEY XD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwhOlaj3TV3oEIeESSGgcx_CFA2CT8oJpl0PamseUSV3
+
+#EXTINF:-1 xui-id="651465" tvg-id="" tvg-name="24/7 Los Misterios De Archi" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Los Misterios De Archi
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1sA-KLu6JJXzJQkm8BuyvByxKNwvhnvpmtrb9S47sfY
+#EXTINF:-1 xui-id="648428" tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 ALF
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7e5BajzRvIEQVtca1yEHs1JCTen686ktkZFkYYnMAG7
+
+#EXTINF:-1 xui-id="644117" tvg-id="" tvg-name="24/7 Capitan America" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Capitan America
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_-yQPwz5tk3g_qr6x2B9PytbHXOBTvELvbjT7zh2qwZ
+#EXTINF:-1 xui-id="644116" tvg-id="" tvg-name="24/7 Castores Cascarrabias" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Castores Cascarrabias
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4HrHf6KAqF9LzJCamT4vrnjot2qThaQbc0XL4ecIw_h
+#EXTINF:-1 xui-id="644115" tvg-id="" tvg-name="24/7 Jhony Bravo" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Jhony Bravo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxLva0WyDYSSUVmTR2-64H8uTqptXUAmecGKlu26EKZS
+#EXTINF:-1 xui-id="644114" tvg-id="" tvg-name="24/7 El Laboratorio De Dexter" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 El Laboratorio De Dexter
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzIrEEUUAcY35ZN19fN5mvRMuUpMyYvUac47QI5OcCaT
+#EXTINF:-1 xui-id="644053" tvg-id="" tvg-name="24/7 La Pantera Rosa" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 La Pantera Rosa
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-BQ4fFRCdy9MgX0y5R4eTxPJW0jujq-9ilOMGtBXYdP
+#EXTINF:-1 xui-id="644040" tvg-id="" tvg-name="24/7 Los Osos Gummi" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Los Osos Gummi
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8O4eEVo2HVNzTs46tGlLFVV91RiLOGTPMHLOSqFCNPy
+#EXTINF:-1 xui-id="643300" tvg-id="" tvg-name="24/7 Ed, Edd y Eddy" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Ed, Edd y Eddy
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4cnfwyBynKzCEREmRQXhfQB5ECDUa_q3EZV4jDPpfAS
+#EXTINF:-1 xui-id="643299" tvg-id="" tvg-name="24/7 BeyBlade" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 BeyBlade
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6UPibsdcvTJdRaNZA11iqZJEbUTbu9HA9neOzdCn49j
+#EXTINF:-1 xui-id="643298" tvg-id="" tvg-name="24/7 Ben 10" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Ben 10
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2vDa7HI4lmOosw92LnWirHdYwyPqE44_xrGW_MECx2s
+#EXTINF:-1 xui-id="643130" tvg-id="" tvg-name="24/7 Aaahh Monstruos" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Aaahh Monstruos
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyMNfpsjukJkwpIJXORX0KKN_ygzl27Ho_Xx_wuP4LaH
+#EXTINF:-1 xui-id="643118" tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Tom & Jerry
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3Gj4nVDCiGiqf1osO9VSDAjQ-6c1S7daLQx5Qe7EfHv
+
+#EXTINF:-1 xui-id="642703" tvg-id="" tvg-name="24/7 Don Gato Y Su Pandilla" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Don Gato Y Su Pandilla
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3wfJvmHDzwjENgVH3c6J6ncTsRmD1JT6GBOtU7KA7p2
+#EXTINF:-1 xui-id="641861" tvg-id="" tvg-name="24/7 Los Picapiedras" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Los Picapiedras
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3Et68KjzUsNMMV8hHl2ZH3FZe9jK2PobAIpCl0VMz1C
+#EXTINF:-1 xui-id="641121" tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Dragon Ball Super
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-8VUE8lOpMmyiF7cUVbgfOYnvrnwmF-Dvjys79Cp6fE
+#EXTINF:-1 xui-id="641120" tvg-id="" tvg-name="24/7 Dragon Ball Z Saga Androides" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Dragon Ball Z Saga Androides
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7KpFeYFhgIGgfCR4lbC89NeoqbgU88i_O1bZTYwYNzd
+#EXTINF:-1 xui-id="640805" tvg-id="" tvg-name="24/7 Dragon Ball Z Saga Sayajins" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Dragon Ball Z Saga Sayajins
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyTbXQY_dIE_FeYZd8ZKrQG-VPvjjOtr2kh13ce9mDpJ
+#EXTINF:-1 xui-id="640803" tvg-id="" tvg-name="24/7 Un Cachorro Llamado Scooby Doo!" tvg-logo="https://i.postimg.cc/RFPtCNzZ/red4tv.png" group-title="24/7 INFANTIL",24/7 Un Cachorro Llamado Scooby Doo!
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxcngvMMaw36d4VuN-6VQ2xWUT-PR65pQhkg9g5PGI6s
+
 #*****************************CANALES DE HONDURAS
-#*****************************
+#***************************** 3
 
-#EXTINF:-1,Canal 6
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eg05ODGneuCps-vaDP7p7E
+#EXTINF:-1 xui-id="614169" tvg-id="" tvg-name="FFATV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPy9aKYtpeH33FABAhr7Y_gspAStsIaqrJA&s" group-title="HONDURAS",FFATV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-kJ_2YKDhWoh3pK-gOXsUoLcXJj5vqY-ldpslDZfQyW
 
-#EXTINF:-1,Canal 5 HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZsALhw6akbf2M6f11vHMm4
+#EXTINF:-1 xui-id="571161" tvg-id="" tvg-name="VTV" tvg-logo="https://files.thehandbook.com/uploads/2021/03/aauvwnj0yq28hzietdkeddyfnwhqjskg4uqjvmjskvpqfqs800-c-k-c0x00ffffff-no-rj.jpg" group-title="HONDURAS",VTV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q43ckNwXXzXhvpW2nmFx9Z6xnHexfoisevFAT9MwMIRA
+#EXTINF:-1 xui-id="571160" tvg-id="" tvg-name="Mega TV" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1z75Rftxv7dvVyOI9qmIt87tQ0GSp3SyZUEO2cmCgQEf.png" group-title="HONDURAS",Mega TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QztT8WWC7Hrx1EyAUPXTiGGkSouOS53PGr1NsBxvob5Q
+#EXTINF:-1 xui-id="571159" tvg-id="" tvg-name="UNE TV HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE175eNmhJpbYxKA6TWe7tnN45XAzfJ8YYIqiswWa0TDbC.png" group-title="HONDURAS",UNE TV HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0tW4BiKYQvLc5-mZeifEfYpM71RWXeRsu0290OvjFKR
+#EXTINF:-1 xui-id="571157" tvg-id="" tvg-name="Deportes TVC" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2021/05/FONDO-DEPORTES-TVC.jpg" group-title="HONDURAS",Deportes TVC
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-ZDUeSaJV36VBc7eZTVLusey7gnX1Q1YbddDfcpSzbz
+#EXTINF:-1 xui-id="571156" tvg-id="" tvg-name="Deportes TVC op2" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2021/05/FONDO-DEPORTES-TVC.jpg" group-title="HONDURAS",Deportes TVC op2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1uacclPR2ZDKrDmO-V-DF3Gbk70wYEik7Jyi7GT7MVQ
+#EXTINF:-1 xui-id="571148" tvg-id="" tvg-name="TSI" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/05/Generica-TSi.png" group-title="HONDURAS",TSI
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwX0GyJRNuaRR1BJbsqNTWTutruHJc1AU7HlCslKEqhH
+#EXTINF:-1 xui-id="571146" tvg-id="" tvg-name="TODO DEPORTES (exclusivo)" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE11coV1oeHyjKgMy_5kZan-meTWZv0NdUlDo0fKPspbkZ.png" group-title="HONDURAS",TODO DEPORTES (exclusivo)
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxkqhhIaVDDCkSjtlDoE1315AhVtp63qDg4OxYLTk8SM
+#EXTINF:-1 xui-id="571145" tvg-id="" tvg-name="Todo Deportes" tvg-logo="https://i.imgur.com/jN74q7H.png" group-title="HONDURAS",Todo Deportes
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qx2v4y-3riDojPCJKhtbLHAToSAdy2BfJKBoRWqF5RI5
 
-#EXTINF:-1,Teleceiba 7  HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RiNRNZ5Llwv_4kEwHn-W-g
+#EXTINF:-1 xui-id="571140" tvg-id="" tvg-name="HN | TIGO SPORTS" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE10-y3SX0oTWPPCVCDBpB9h_qHSK_U6OxqZ9CBO7kgQK6.png" group-title="HONDURAS",HN | TIGO SPORTS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzRjKGE_o6BOow7IkbIb32kvGv4iO58do6ze6XQdBBTp
 
-#EXTINF:-1,Telecadena 7 y 4
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QMQNhZt-J2-Sz0qjCOxcoc
+#EXTINF:-1 xui-id="571139" tvg-id="" tvg-name="TEN HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE17nXNqPgBrdYkWOXAHi-jZKISrUiwUUpWtZfWuV1B_tv.png" group-title="HONDURAS",TEN HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5Vf1pM2WrxPtdJCdX5u0NTSp2zQQGS4IQpxwQ7xLhxM
 
-#EXTINF:-1,HN | Canal 15
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3R1sOBoN_PiHcxLVjeNfxvs
+#EXTINF:-1 xui-id="571135" tvg-id="" tvg-name="Teleprogreso" tvg-logo="https://i.imgur.com/W6Y8DEj.png" group-title="HONDURAS",Teleprogreso
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxePmJQjckCyzNRdRL9r5Uekg1xfnfYSalI512k7qlyr
 
-#EXTINF:-1,HN | QHUBO TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XqU1-nzTWFQJfeZhMt4WKE
+#EXTINF:-1 xui-id="571132" tvg-id="" tvg-name="Teleceiba  OP2" tvg-logo="https://i.ibb.co/vkhDqfL/hn-teleceiba-m.png" group-title="HONDURAS",Teleceiba  OP2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qzi6Cw8z_j9aLrQBY5Bl1niyd-aRyAZvgNNXuOvV1Uo8
 
-#EXTINF:-1,Mega TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WwrXBUNvQSKkzjWVGVqQWI
+#EXTINF:-1 xui-id="571128" tvg-id="" tvg-name="TELECADENA OP2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Telecadena7y42018.png/revision/latest?cb=20190316212329" group-title="HONDURAS",TELECADENA OP2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzcrvFIMQCrVMR75Mk5uoRjPJVvTThKzBciZqDOt5NA8
+#EXTINF:-1 xui-id="571127" tvg-id="" tvg-name="TDTV PLUS" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",TDTV PLUS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxKSAza1J4HIRln4uV3cjRlwwadEnaqQbQFt3g3wzlWY
+#EXTINF:-1 xui-id="571124" tvg-id="" tvg-name="RTV HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1460dRWKhfZ4Vj61f8IFLyc2vFj_JzeAQLLDkj4boBUy.png" group-title="HONDURAS",RTV HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4jnep67ukv-SZ1kxB6TccMIh7TIAq6rrE8pdoYya1RG
+#EXTINF:-1 xui-id="571122" tvg-id="" tvg-name="RSV Honduras" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZSCMttycFdKEyIYUkI3gL_1aaE0pkJYd42A&s" group-title="HONDURAS",RSV Honduras
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3IhOXD-3Ygh-QGeGUNVCHIhFN23-GpRMsFL22H5dAsw
+#EXTINF:-1 xui-id="571120" tvg-id="" tvg-name="Orica Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmstVNfTzs6q1QM_XIoZDVG4Z5K55SDDsd20ukA5Cupo7TOOjx3ORdkLpD6YLR3PJN5Q&usqp=CAU" group-title="HONDURAS",Orica Tv
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qx_rzvL5JxCDGnAOC0pgHvWWs_4vIbHmjmjNF0MPq-Rw
+#EXTINF:-1 xui-id="571119" tvg-id="" tvg-name="Metro TV" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1937951197119324160/img/4m_yaKtmBuoYk-IN.jpg" group-title="HONDURAS",Metro TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3VPSSX1kaw4coKzRw7IOe021wbvs3jfOgyH3rKx3q2h
 
-#EXTINF:-1,UNE TV HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VaZQcSPbT-2ieFXmykNbZ4
+#EXTINF:-1 xui-id="571116" tvg-id="" tvg-name="Mega TV  OP2" tvg-logo="https://i.imgur.com/mRmiYNW.png" group-title="HONDURAS",Mega TV  OP2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7XyuMDAwalJOiqixybPjn3az5WUsgriTQ-rIQubWEno
+#EXTINF:-1 xui-id="571115" tvg-id="" tvg-name="LTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSka4YxZaIiTITPSLWj18SyFcdR6R_HXfNUQA&s" group-title="HONDURAS",LTV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0E0ZIOkVtR5pJRBIvHaCjv8cqsKV7t4rn8LV4m760SZ
+#EXTINF:-1 xui-id="571114" tvg-id="" tvg-name="JBN HD" tvg-logo="https://image.roku.com/developer_channels/prod/28dddd305a845d9dd7379951f1ac568c1eea839fbd9274b54c76addaa6a2a69f.png" group-title="HONDURAS",JBN HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7qabiFBZVYFc6tYbY4S7WWclAcqcFl2RMtC9BEHUfV2
+#EXTINF:-1 xui-id="571112" tvg-id="" tvg-name="HONDURAS CANAL 6" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1465-IapaObg-PE8EEC4zbPx69lqevPnmhYapoAin-0M.png" group-title="HONDURAS",HONDURAS CANAL 6
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q46cESb1bpkjeoZVL3FMCkGWKXW0LN8U0QtRMBTXm_x0
 
-#EXTINF:-1,UNE TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eAdiLzdZa6hynOnqWPXs48
+#EXTINF:-1 xui-id="571106" tvg-id="" tvg-name="Ebenezer" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1-j1M7BL1u8Si7fIng0fIUJ-5tIff-0ULwQFnBOhEMwJ.png" group-title="HONDURAS",Ebenezer
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3a2lj-a2QYtSK9xK65llV56Ig_VFz9ip9Sqmfax5whq
+#EXTINF:-1 xui-id="571105" tvg-id="" tvg-name="Dios Te Ve" tvg-logo="https://play-lh.googleusercontent.com/-4OhvRG-BNBSloTMXVTKIax7uGElDnybRLC7qw0waJHUWafazWoprNyQbhG_n0MMRMg" group-title="HONDURAS",Dios Te Ve
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0N0Io9CTk80ZjKCSmzPSsH0C9zcsc2U6Gg2-lxg7S1C
 
-#EXTINF:-1,TSI HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3c9_9tpXbmw9NbN0LDsKOKc
+#EXTINF:-1 xui-id="571099" tvg-id="" tvg-name="Copan TV" tvg-logo="https://image.roku.com/developer_channels/prod/3a91dd6aa8eaecdc39edaec5279b4c6eb0d3d01241e63b930253abddb0a2d4ee.png" group-title="HONDURAS",Copan TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzvLP8fMAqnmkiIbYHjeFtabLGgNRqPPTHKjiGQOsbkg
+#EXTINF:-1 xui-id="571097" tvg-id="" tvg-name="CHTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOmZxcUS_IyU96YFBR1Koa4xv7AUmOB3Ox-A&s" group-title="HONDURAS",CHTV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-6TbYAE7yVlyvue2ItKDsNxIBWcrtLVauBfyLuAkbva
 
-#EXTINF:-1,TEN HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bm2Zar6tzzkxDO0QkWQCqQ
+#EXTINF:-1 xui-id="571095" tvg-id="" tvg-name="Canal 11 HD OP2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEqsvSs0J9pJgYn89Kn3Z0Q5qo-Kh-3ycS-Q&s" group-title="HONDURAS",Canal 11 HD OP2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3g09YPhxvpOXhNpeJ0lJ-bqpmfjfg8oOG2fxu-bHlud
+#EXTINF:-1 xui-id="571093" tvg-id="" tvg-name="Canal 6" tvg-logo="https://image.roku.com/developer_channels/prod/444fe9f91ed0b4703ee2bcbb41316ea66c70987aa59f43d81d8791b383dd04cd.png" group-title="HONDURAS",Canal 6
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q82UIqIRsuJWEhBb4n2WQRy1fz1NldO_JN4LGPgfEfqN
+#EXTINF:-1 xui-id="571092" tvg-id="" tvg-name="Canal 5 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Canal5HN1996.png/revision/latest?cb=20221022233044&path-prefix=es" group-title="HONDURAS",Canal 5 SD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0AvA-oW9-mHkNFcVoTNdNYiOQ5qyOqHs-Fd2rlhPfHr
 
-#EXTINF:-1,Teleprogreso
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VSjE7E7NClZebZySzXV8xo
+#EXTINF:-1 xui-id="571088" tvg-id="" tvg-name="CANAL 23 HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1zccxN4Uh1p79Ie2my0rhtFUur6zMIYVZYX1ImDwWOG0.png" group-title="HONDURAS",CANAL 23 HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-7mTaVJDhQGpyutnZ90irnJj4khyZ1mkI7YKsZ5PjyY
+#EXTINF:-1 xui-id="571086" tvg-id="" tvg-name="Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ7oZ9E3g31_rwRQa6tTpNxWAKtU6vUSEIXrMng31Zb0nEm2rVfBUksdbQEPJ7q8P_-8&usqp=CAU" group-title="HONDURAS",Canal 11
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4noBSsZxeLG25y_ofYNjFj3_6RI4wexqIA3BGVVszcX
+#EXTINF:-1 xui-id="571085" tvg-id="" tvg-name="TEN 10" tvg-logo="https://i.pinimg.com/474x/d1/b1/f1/d1b1f1fd77f6394ed15cba968e855370.jpg" group-title="HONDURAS",TEN 10
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q79i0WQnz3P-fgPgjrI6_ETM5oWTzJvk765IdJ8QHrgu
+#EXTINF:-1 xui-id="571084" tvg-id="" tvg-name="AZTECA HONDURAS HD" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE12xnlcAyX76WU7pXZDuKde9C-0we89qE1pr3HdUq5qZJ.png" group-title="HONDURAS",AZTECA HONDURAS HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qy_TwnN-asL50kD2BLjtEcmNa1Z88KMYCspbixAkDQe_
 
-#EXTINF:-1,TDTV PLUS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3T9hLm_19agDRm0EAEUw3tg
+#EXTINF:-1 xui-id="571081" tvg-id="" tvg-name="Aliento Vision" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",Aliento Vision
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7bGNRVBGfCq58Uwx9jHaLWrOU4672716dbMGM4pr2-M
+#EXTINF:-1 xui-id="571080" tvg-id="" tvg-name="45TV" tvg-logo="http://icomplay.net:80/images/QjSeU3keF4YpIALmJ3KE1xcgWb3cvh5qPvEqo1Ab7CQW0uzyGxkZrc-LYTNZ5uhO.png" group-title="HONDURAS",45TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2sFGybczVp5EK3dr2vM9Oe_wQaEFiBcD9bBOghu5x6w
 
-#EXTINF:-1,RTV HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Rfzim054wIBTp-i2LE0Q0k
+#EXTINF:-1 xui-id="551636" tvg-id="" tvg-name="HN | Tigo Sports HD OP2" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" group-title="HONDURAS",HN | Tigo Sports HD OP2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8LgMhx0l5pi78AlxSZNehFszDfBuweB8ba1nPlKH-an
 
-#EXTINF:-1,Metro TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Vlc_c80uAMf0tiF1lv1epI
-
-#EXTINF:-1,MegaTV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YF61uoLoBrdjbZoXLfU2VM
-
-#EXTINF:-1,Mega TV - Orlando
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S3MIQX8XNFHT4zdEB0_wgI
-
-#EXTINF:-1,JBN HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SSB0M8DjsiibUtWWn7F4mE
-
-#EXTINF:-1,HCH HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TXlRoDIe5RelSy4diVOvmM
-
-#EXTINF:-1,RSV Honduras
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Xlm7OH58CXQkU6NYqvSqPs
-
-#EXTINF:-1,Orica Tv
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VTzTxx9zQeNhHzbR8WbLC4
-
-#EXTINF:-1,Ebenezer
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ezTlRdY3Dg9mk4Y84qvoNE
-
-#EXTINF:-1,Dios Te Ve
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3SdzGyMCExrpmWEJktoRSLY
-
-#EXTINF:-1,Aliento Vision
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3eSTdL4i3Bs145ngzzQip2I
-
-#EXTINF:-1,Copan TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S_x_3u119jFo13717ccZvc
-
-#EXTINF:-1,CHTV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3faS3CEAPrUW1JxHkfqCX8c
-
-#EXTINF:-1,AZTECA HONDURAS HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bxXufQOOtzig4Ds9H9iIiQ
-
-#EXTINF:-1,CEIBAVISION CANAL 36
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fLlVxzzWyYk12iNFVSIwes
-
-#EXTINF:-1,SULA TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bLscrtZZJENLykrUeVeVO4
-
-#EXTINF:-1,TVC Deportes
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YQ3GB8uB_pMeYRTtwgOrAw
-
-#EXTINF:-1,Todo Deportes
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Z5VNoh9j-GL29TlDOKFpCE
-
-#EXTINF:-1,TIGO SPORTS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3U81cSCImLPmUr-iPkik-00
-
-#EXTINF:-1,HN | Tigo Sports HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3RV1xFiXFNVuc3_AMUJ9X3U
-
-#EXTINF:-1,TIGO SPORTS (HON) 4 HD
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3WpPWI-DGnEyE0zJlmW9XJk
-
-#EXTINF:-1,FFAA TV
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dSbRcDFb9zEZuTHXgpc578
+#EXTINF:-1 xui-id="623749" tvg-id="" tvg-name="SULA TV" tvg-logo="https://multicablemedios.hn/images/2025/01/30/sula.png" group-title="HONDURAS",SULA TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6-hh0A-TwEyElFZid6bO_XNFEnFbKjsHqvBPSQIdzUx
+#EXTINF:-1 xui-id="656622" tvg-id="" tvg-name="TSI" tvg-logo="https://s3.amazonaws.com/prod-wp-tvc/wp-content/uploads/2020/05/Generica-TSi.png" group-title="HONDURAS",TSI
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_7He4HrEY1r2SoyljkFeS-MMaZSPB17c7bUNzbZYetC
 
 #*****************************CANALES DE GUATEMALA
-#*****************************
+#***************************** 4
 
 #EXTINF:-1,UNICABLE OPC 1
 http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S30XYCPZOK-7XaFKRTu6KY
@@ -465,241 +640,569 @@ http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XfZKA_ocmgHpPd3r3RfXS8
 #EXTINF:-1,VEA CANAL
 http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cNQ4s38MISmvq04ddxfmzk
 
+#EXTINF:-1 xui-id="570614" tvg-id="" tvg-name="ANTIGUA TV" tvg-logo="https://i.ibb.co/sKw0V2Q/Imagen-de-Whats-App-2024-03-13-a-las-11-29-55-bc86f6b4.jpg" group-title="GUATEMALA",ANTIGUA TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0UwoyA2rCr4rckeV0idgXHaX7hnJIwAoCjxCX6BEcmP
+#EXTINF:-1 xui-id="570616" tvg-id="" tvg-name="AZTECA GUATE OPC.2" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",AZTECA GUATE OPC.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q31vVuWJXZsfrufDIXFTyz0NqroqOyHbo-rb7cNUfPi9
+#EXTINF:-1 xui-id="570618" tvg-id="" tvg-name="CANAL 11 OP1" tvg-logo="https://cdn.mitvstatic.com/channels/gt_canal-11-guatemala_m.png" group-title="GUATEMALA",CANAL 11 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0ymGfw3ojMPBJTdggPzadJjhWQt2hEIaGHlZRAyGzMp
+
+#EXTINF:-1 xui-id="570626" tvg-id="" tvg-name="Canal 27" tvg-logo="http://i.imgur.com/bjGWyTc.png" group-title="GUATEMALA",Canal 27
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2wVZeKqdg9M0rah72gTXsS5ZSth2SKgXJocmVEGvpyS
+#EXTINF:-1 xui-id="570629" tvg-id="" tvg-name="Canal 3" tvg-logo="https://i.ibb.co/1734Nq1/3-1.png" group-title="GUATEMALA",Canal 3
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3xmZKwAjcw2C1xYKTs5d3ktSmNALWlsNnaq9CHND-FZ
+
+#EXTINF:-1 xui-id="570631" tvg-id="" tvg-name="CANAL 33 TELECOSTA" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="GUATEMALA",CANAL 33 TELECOSTA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9XbIdmieXf_JIR0tcZKjcV8uQ7Z8_SbrxyJxbFtFOF6
+#EXTINF:-1 xui-id="570634" tvg-id="" tvg-name="Canal 5 Solola" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",Canal 5 Solola
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3sTouIJSuFW_-43_DWMspKOBzPnv5bJTkorDmO5wvm7
+#EXTINF:-1 xui-id="570636" tvg-id="" tvg-name="Canal 7 (Televisiete)" tvg-logo="https://i.ibb.co/JHX1VmM/7.png" group-title="GUATEMALA",Canal 7 (Televisiete)
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4p8WfJjlrGcThO75bTHWVq4CAx56H1D0omDygV1f6MT
+
+#EXTINF:-1 xui-id="570638" tvg-id="" tvg-name="CANAL 8 AZTECA GUATE" tvg-logo="https://tvaztecaguate.com/wp-content/uploads/2022/02/Tv-Azteca-Guate.png" group-title="GUATEMALA",CANAL 8 AZTECA GUATE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5t-T5YlTuHvrw8MLDLiCsiphaTLmoP4lUK88fvBtQjv
+#EXTINF:-1 xui-id="570639" tvg-id="" tvg-name="CANAL 9 BARBE TV (SRO)" tvg-logo="https://static.wixstatic.com/media/7acae1_8dc4cf299fb34214ad9e49492ee42421~mv2.png/v1/fill/w_464,h_464,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo-BarbeTv.png" group-title="GUATEMALA",CANAL 9 BARBE TV (SRO)
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3FhLZrrAXBkyMX833i0rOY-yufo64M-j14vxjTD_Sw7
+#EXTINF:-1 xui-id="570641" tvg-id="" tvg-name="CANAL ANTIGUA HD" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",CANAL ANTIGUA HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_pSYVrer5xSiAdEuc-e3EuBtEPGHu-0Z8X0SIzqFmUj
+
+#EXTINF:-1 xui-id="570642" tvg-id="" tvg-name="CANAL RHEMA TV" tvg-logo="https://i.imgur.com/5o821rT.png" group-title="GUATEMALA",CANAL RHEMA TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-C_a1LMQ2agot7WlW8myc3Qy67TfTk7rQ3ooEvlgoXW
+#EXTINF:-1 xui-id="570644" tvg-id="" tvg-name="CANAL TN23" tvg-logo="https://yt3.googleusercontent.com/K_dxUQOOqsdHOP2B3yQsdFDc44P5y1KUHdKc9eP2m9K4lG7EbEH_GLE5PNbnh_RWmpmWDdgt=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA",CANAL TN23
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8PR_rUMSE1DPYg7vjF2TKemNkQwLPlFgxp3pwgXZixL
+#EXTINF:-1 xui-id="570646" tvg-id="" tvg-name="CANAL TV Maya" tvg-logo="https://yt3.googleusercontent.com/xOebPScbEZUaEm1GNjNodQGb6-kVKxUN7lneBGxqVFr9i5COWPCYMiIBfV8IRz4cxi2Btptw=s900-c-k-c0x00ffffff-no-rj" group-title="GUATEMALA",CANAL TV Maya
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6W3Rfahf530mRq6a3gkzaFXSbW4ItezcfJ-dgm_dJV2
+
+#EXTINF:-1 xui-id="570650" tvg-id="" tvg-name="CLARO SPORTS 1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="GUATEMALA",CLARO SPORTS 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8xHRzJYCrlooP_QSOkaO1TSORDoMbwL1ducbWkPt6Tc
+#EXTINF:-1 xui-id="570651" tvg-id="" tvg-name="CLARO SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="GUATEMALA",CLARO SPORTS 2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3oQhH03qsGuK0V4Z00u4R9jG_-_TNKBYHqRWiZOdLcw
+
+#EXTINF:-1 xui-id="570623" tvg-id="" tvg-name="GT | Canal 13 Opc.1" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",GT | Canal 13 Opc.1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q19h4fQr4mcB4seBoFs7QJ5xFdQNp78i4SboreGEadLP
+#EXTINF:-1 xui-id="570622" tvg-id="" tvg-name="GT | Canal 13 Opc.2" tvg-logo="https://i.ibb.co/hZzZFwV/13.png" group-title="GUATEMALA",GT | Canal 13 Opc.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyXhxkTJaZmhizEeRCd67YlNqGbA-GRX5ZsG3juy5Cfj
+#EXTINF:-1 xui-id="555857" tvg-id="" tvg-name="GT | Tigo Sports" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o" group-title="GUATEMALA",GT | Tigo Sports
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzAJsQM1xlAyqsmZyiuEXHE2io5LO3BrBs-fL4RzXeBF
+#EXTINF:-1 xui-id="570658" tvg-id="" tvg-name="Guatevision" tvg-logo="https://i.ibb.co/34HGNSk/g.png" group-title="GUATEMALA",Guatevision
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7AidIGIWalxjtZ225xWQaUOIeJS-R03CyLy6PH4WakY
+
+#EXTINF:-1 xui-id="570660" tvg-id="" tvg-name="Retro Tv" tvg-logo="http://icomplay.net:80/images/wUWJSGi7YzvLq-3SJDi2CtTzSO0ApHY9sTQ0Sl7_3mmWoFGRMlG1ca8luxk_tqtmGHuWbNsyNZwLcJYH35yKdQ.png" group-title="GUATEMALA",Retro Tv
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9qUtXSQeEH5Q4m6pnQeN3Rdp8X-OB7I1er0Ap_EQZJA
+#EXTINF:-1 xui-id="570666" tvg-id="" tvg-name="TN23" tvg-logo="https://i.ibb.co/5kk4Gk2/tn-23.png" group-title="GUATEMALA",TN23
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2H1KxOVJYoHkkGVQGeM2dBJpMb83iGI4xsUMpBOqfJI
+#EXTINF:-1 xui-id="570667" tvg-id="" tvg-name="VEA CANAL" tvg-logo="https://scontent.fgua3-6.fna.fbcdn.net/v/t39.30808-6/491993484_1087219106772594_8467146745593679746_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_6O3bVnqR-MQ7kNvwGEeU7I&_nc_oc=Adm6Vr-KvkkmxKjSXd5CzjcXr1a3ZjlWA18ah368hY1oaW_DOqIj9Kf9_QbIdXWBBFNh8LMZ3FDbAkqApbvzXkRN&_nc_zt=23&_nc_ht=scontent.fgua3-6.fna&_nc_gid=URp_J-RZ1IOoeFIJLaHYAQ&oh=00_AfH6fVV2W6MIKP8DssfBQLkPLNonhgXD-MggDAdjPtgMnQ&oe=681D7FF1" group-title="GUATEMALA",VEA CANAL
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5ST3N-BIkKLwmeQGCdi2qGAiKAVEtxy8D4W2Qg9lNbj
+
 #*****************************CANALES DE NICARAGUA
-#*****************************
+#***************************** 5
+
+#EXTINF:-1 xui-id="570859" tvg-id="" tvg-name="Canal 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Canal_10_Nicaragua.png" group-title="NICARAGUA",Canal 10
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3nQFS-_-89bybSSvl3lCWTe5PKRauGUyFqlMF-u3qVO
+
+#EXTINF:-1 xui-id="570869" tvg-id="" tvg-name="Canal 13" tvg-logo="https://immaa.xyz/Canal13(NIC).png" group-title="NICARAGUA",Canal 13
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_yi8NHPjz77t2NaHENjIM3PX-sPwWOkEFRug_e5OCwj
+
+#EXTINF:-1 xui-id="570870" tvg-id="" tvg-name="Canal 14" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JHpzwcpXETKrtnAI9bqE-vrFgyzvAVOTLNq8prL_K3KT.png" group-title="NICARAGUA",Canal 14
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q569Kknw97u1sKvx74jInI6DOvCbm_-uKmeVEuSgP9BQ
+
+#EXTINF:-1 xui-id="570877" tvg-id="" tvg-name="Canal 20" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JJdeZlvdUp730r_yu48ex241IN8WLR9ZYL2BoaCi-Roi.png" group-title="NICARAGUA",Canal 20
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8IUiRebolIMcYzGisXFhepevcEdaqhfi-OV55VmyHKa
+
+#EXTINF:-1 xui-id="570891" tvg-id="" tvg-name="CANAL 4" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JLcL7kce5wvLLAWD-WxCuEX4okkyZuP6h0XcWMHrbdxf.png" group-title="NICARAGUA",CANAL 4
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4jsDfmkJqRTkgS5Ljb-ua3MGn2hM20ZwH2mc-u74egL
+
+#EXTINF:-1 xui-id="570884" tvg-id="" tvg-name="Canal 6" tvg-logo="https://i.ibb.co/mJM64Mj/6-1.png" group-title="NICARAGUA",Canal 6
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0ONmFq7z-WjZr_MHUwcBYB6V372H0O-cuFcnWXVs9fD
+#EXTINF:-1 xui-id="570887" tvg-id="" tvg-name="Canal 8" tvg-logo="http://icomplay.net:80/images/QCqX5p5x3Y181Q8jwb82JK_bIpzqUgO3LT4m7jQIAXi5EixJGsuSla-JzIyxpiot.png" group-title="NICARAGUA",Canal 8
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5lOTRVeP0xhNwC6IgxeA1JluYmfwAyP6k4V60W-QZ7q
 
 #*****************************CANALES DE COSTA RICA
-#*****************************
+#***************************** 6
+
+#EXTINF:-1 xui-id="570184" tvg-id="" tvg-name="ANTENA SEIS TV" tvg-logo="https://i.imgur.com/4xJJoLd.png" group-title="COSTA RICA",ANTENA SEIS TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5Bcdi7vwI1FXnnk0QJCqcioDYZYNIqkb4ahytIRNp7k
+#EXTINF:-1 xui-id="570186" tvg-id="" tvg-name="Canal 1 OP1" tvg-logo="https://www.lateja.cr/resizer/QYPLoCjVzPx36ZmMymyQNiSJgiQ=/1440x0/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gruponacion/A5QSG7J2ERAN7DYBXWEGY73H2I.png" group-title="COSTA RICA",Canal 1 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q48tIutaRYp1VD3sV8FzEnF4tIHTzYhwu-evdpVl-ZfK
+
+#EXTINF:-1 xui-id="570189" tvg-id="" tvg-name="CANAL 13 OP1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEhfQzIQoyM1SLf4qLGJpfW3mMMA7jQTDi6-pBza-db8SB6xipwVxKG-TWfgk_Jm5V_s&usqp=CAU" group-title="COSTA RICA",CANAL 13 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0oPJwE2FbfFXyvFcp9BGWTkmFUHb80OLPPoPxfeZNqr
+
+#EXTINF:-1 xui-id="570191" tvg-id="" tvg-name="Canal 8" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMRu1_juOtKkoEiqXGH7nYNcVuMX3hZJl7h0Ycq3STE0x.png" group-title="COSTA RICA",Canal 8
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyITvKOAyIk-KIbx0edH83lf7YmnOJy037NApjVq8aTn
+
+#EXTINF:-1 xui-id="570196" tvg-id="" tvg-name="Coto Brus TV" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMQio9Wgf-nYDBD2A3pzafVEYZElmVUr90czbHS3ugfHW.png" group-title="COSTA RICA",Coto Brus TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6ode7h_F-i7Jv-7f76sSi4LdLp3ukVYUUuQkC3Og85w
+#EXTINF:-1 xui-id="654392" tvg-id="" tvg-name="CR | CAMARAS MEGATV" tvg-logo="http://vionixtv.lat:80/images/wQ3S68DNiMIftn4SPmkOa579LUDiWSparGU5RJdq41wYCXOiNZub57Bs2D8SyOs4oYT5SQndrCbi_aBtt11vvg.png" group-title="COSTA RICA",CR | CAMARAS MEGATV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1Wk5cWA-o9Vu5iF4SXyhoOvvAbaNLPPCUGvXrnVMAp5
+#EXTINF:-1 xui-id="570195" tvg-id="" tvg-name="CR | Colosal Radio" tvg-logo="https://i.ibb.co/hR6kKDd/colosal.png" group-title="COSTA RICA",CR | Colosal Radio
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4BtokjFzjgGMxKHPbCtNXhwRGSZIJLFDxLT6Bo9Rhmy
+#EXTINF:-1 xui-id="654390" tvg-id="" tvg-name="CR | Colosal Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDLPhRU1_0_qqhaDNq2Q9MjCUM_crsOQrvWA&s" group-title="COSTA RICA",CR | Colosal Tv
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7yAYckcDe9_2RSi4ycUtJ3kmNXa73En6h9fN8Oztmqp
+#EXTINF:-1 xui-id="570199" tvg-id="" tvg-name="EXTRA TV 42" tvg-logo="http://www.tmsimg.com/assets/s71677_ll_h3_aa.png" group-title="COSTA RICA",EXTRA TV 42
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5sM0LZvwyjTR9DcPKIudquoFMSi_QOn1vCYh3aq9Qyi
+#EXTINF:-1 xui-id="570200" tvg-id="" tvg-name="EXTREMA MUSIC" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY0pmRSaZsWZ-82YIDGOUTOMbp-Y7Y0143iGX7oaYJR4w9E6ULTN_sW-MuY6T7FTo-g.png" group-title="COSTA RICA",EXTREMA MUSIC
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2OymIf61jnTgwymF98PEXZmhK90q03ScaXgnjBOR2hF
+#EXTINF:-1 xui-id="570202" tvg-id="" tvg-name="EXTREMA TV HD" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY0pmRSaZsWZ-82YIDGOUTOMbp-Y7Y0143iGX7oaYJR4w9E6ULTN_sW-MuY6T7FTo-g.png" group-title="COSTA RICA",EXTREMA TV HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qy8Dqmd3kv_v9Q7XOKw0ThiLFLBU08OGDxmQHwyYGIvU
+
+#EXTINF:-1 xui-id="570208" tvg-id="" tvg-name="FUTV HD⭐" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY4so52auEM9ytf_b-e4O8FBksgc-MI0m-XnwnPlgp1yZybYFOwUG2_88HPXD3qKRLw.png" group-title="COSTA RICA",FUTV HD⭐
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6Dnq9flrAYfU1BvhtJOxsGFx6acVQ21Zd9qDLOdZQ3m
+
+#EXTINF:-1 xui-id="570212" tvg-id="" tvg-name="Limon TV" tvg-logo="http://i.imgur.com/WQ6CzRQ.png" group-title="COSTA RICA",Limon TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3uCoP0Rv7RJtGhdX4DXj69lt8uBdsWdECMWIzKUFn1q
+
+#EXTINF:-1 xui-id="660265" tvg-id="" tvg-name="Nicoya TV" tvg-logo="" group-title="COSTA RICA",Nicoya TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qw9rGxR_Cni5p5AMMyM1FWlr_r1WRPAKRe2hzV8HuurA
+#EXTINF:-1 xui-id="570220" tvg-id="" tvg-name="NORTE INFORMATIVO TV" tvg-logo="http://icomplay.net:80/images/mg9e4VnU5MiobcDarwnBsediPrDTzNmNlX0onWRkK7I.png" group-title="COSTA RICA",NORTE INFORMATIVO TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_1tBMTbHBeinhlL5CD0kxq63QvtghRJd4aatFJavjYv
+
+#EXTINF:-1 xui-id="570232" tvg-id="" tvg-name="REPRETEL 4 HD" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY7SQHnxbx9d7jztb_6NBhKCbpcRj_L1iRYbjNISFni4l9qyu52MI8o4yY9CryVnARw.png" group-title="COSTA RICA",REPRETEL 4 HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2x9sqEdYRcmE58YX42v3-F0lt9DRJbeQmwSzuHAV6eV
+#EXTINF:-1 xui-id="570233" tvg-id="" tvg-name="REPRETEL 4 OP1" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY7SQHnxbx9d7jztb_6NBhKCbpcRj_L1iRYbjNISFni4l9qyu52MI8o4yY9CryVnARw.png" group-title="COSTA RICA",REPRETEL 4 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-W__rc_kAQeo7bH__-KITkSwCtiI1gseVfYt-I-979R
+#EXTINF:-1 xui-id="570237" tvg-id="" tvg-name="REPRETEL 6 OP1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Repretel6.png/revision/latest/scale-to-width-down/192?cb=20201015011618&path-prefix=es" group-title="COSTA RICA",REPRETEL 6 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q06EzxNqqRqKbi3pYVDDcCXRrb6eb_ftmKk4YJJwa4Te
+#EXTINF:-1 xui-id="570242" tvg-id="" tvg-name="RETROX TV" tvg-logo="https://play-lh.googleusercontent.com/1Mk-cbxCWJPsa0nAMyqZTgMS4YXjpNRoc7L1PPzZcA049OlIf-AhWmRWegylNaJwc6eS" group-title="COSTA RICA",RETROX TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5pz3nMZSo2EO7C8q1s4OWNLd3GsS8_sftxhbk_0aZMq
+
+#EXTINF:-1 xui-id="570244" tvg-id="" tvg-name="Sarapiqui TV" tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="COSTA RICA",Sarapiqui TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxTSIuPWphj5BvDSJUWL-FysnB2Dii6-6VxqBIs_i8vD
+#EXTINF:-1 xui-id="570247" tvg-id="" tvg-name="TD+ FHD" tvg-logo="http://icomplay.net:80/images/gS8r0NdehRHd2E9l02GNY9dlCHj5uOBXkF4qyMTP7Xp82cNw3ihIUtkjfgCJy8OujftkikNvXqTa6ceHfnBJxg.png" group-title="COSTA RICA",TD+ FHD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2DNycdy9pvQEDazD_Chx42mWc2MgHTThFs3jSrvigKz
+
+#EXTINF:-1 xui-id="570249" tvg-id="" tvg-name="TD+2" tvg-logo="https://i.ibb.co/fDSdSg7/td.png" group-title="COSTA RICA",TD+2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1fD4LltnIHpJ1mOPwi1LbyCVtAAI9EUTLWX15EoTOP-
+
+#EXTINF:-1 xui-id="570252" tvg-id="" tvg-name="TDTV" tvg-logo="http://www.tmsimg.com/assets/s110094_ll_h3_aa.png" group-title="COSTA RICA",TDTV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzIk-9jZThGl41-iQFEcd35Co82Yt-MCC5io5iJhh6wc
+#EXTINF:-1 xui-id="570253" tvg-id="" tvg-name="TELEFIDES" tvg-logo="http://www.tmsimg.com/assets/s78888_ll_h3_aa.png" group-title="COSTA RICA",TELEFIDES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1ywA9ADYAf-nbCx895cIH8fGFMd0o16gbYtfhmcJMc_
+
+#EXTINF:-1 xui-id="570258" tvg-id="" tvg-name="TELESUR 14" tvg-logo="https://i.ibb.co/fpJsHjM/telesur.png" group-title="COSTA RICA",TELESUR 14
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8iS-E0GD2QVPvWqW7D2WbfwkDl2fItmBPwtJFMlCEGg
+#EXTINF:-1 xui-id="892064" tvg-id="" tvg-name="TELETICA 7 OP1" tvg-logo="http://onerestream.us/images/gS8r0NdehRHd2E9l02GNY-vpaflKeUhsg4EsOpNlvSWRlDMVTukLTdqJFgl9pdaDcHKs13VoKuA6XTrKpFnwzA.png" group-title="COSTA RICA",TELETICA 7 OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_PEQoHlwFjAAFDboE4C1FaupPa7QXnZH3Exdv6-beMC
+
+#EXTINF:-1 xui-id="570268" tvg-id="" tvg-name="Teleuno" tvg-logo="https://i.ibb.co/c1HPZX2/tele-uno.png" group-title="COSTA RICA",Teleuno
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyjuxCJUV3RucNK3XpemWz_7kDtaqr7ob06jRTfdQydU
+
+#EXTINF:-1 xui-id="570277" tvg-id="" tvg-name="TV RETRO PALMARES" tvg-logo="https://image.roku.com/developer_channels/prod/57ab74c4faa79c70ed4ac4a5e84e17dc731fbded16d330e3bf320a4613a9f5e6.png" group-title="COSTA RICA",TV RETRO PALMARES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2TiYWEsDwFWz2UYOBiv-kO0CqsV_1yM4HqgpjC4it5q
+#EXTINF:-1 xui-id="570278" tvg-id="" tvg-name="TV SUR" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="COSTA RICA",TV SUR
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzR0whNOWPQfsqSk9YnG4kAxRqOyw41zmjnTShyqodEW
+
+#EXTINF:-1 xui-id="570280" tvg-id="" tvg-name="TV VINTAGE MUSIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Qx09u7ByBIS3uBaka5GcfbRKxpVmQvQdxQ&s" group-title="COSTA RICA",TV VINTAGE MUSIC
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8uALtWifHLJWTL5d_QjOS7roB5JpdYZeLS4kWdC8Gko
+#EXTINF:-1 xui-id="570281" tvg-id="" tvg-name="TVN CANAL 14" tvg-logo="https://i.ytimg.com/vi/xtsZpEnlmmI/maxresdefault.jpg" group-title="COSTA RICA",TVN CANAL 14
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8FOYu5kJNvAG9MAC8t3h5EsXJ7j6pL1R2AfsGtvg-tp
+#EXTINF:-1 xui-id="570283" tvg-id="" tvg-name="Urbano TV" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMabP3dlCTiJSbV-firN0UrDDxjqQwnVmzPnpZzfGqkaf.png" group-title="COSTA RICA",Urbano TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7_xCLQYdqcsTWBpa5TP_2Uce1W1KtFwsYx8Y8JfNpJS
+#EXTINF:-1 xui-id="570284" tvg-id="" tvg-name="VM LATINO" tvg-logo="https://fastly.4sqi.net/img/general/200x200/90620129_itvdvpgRGW3pwW5G8FWk1HLPEQ4gffosY-Kst_SbE5A.png" group-title="COSTA RICA",VM LATINO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_ZoL-znwF3tKuS-6nlXHKkZ-QiB-sym4J5qxMu565d8
+#EXTINF:-1 xui-id="570286" tvg-id="" tvg-name="Voice Over Radio" tvg-logo="https://i.ibb.co/MfbBQZJ/voice.png" group-title="COSTA RICA",Voice Over Radio
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxudefTuD7Zbw0NV7u4O0fVkandtc0qKTGAVzdkg1QcI
+
+#EXTINF:-1 xui-id="570291" tvg-id="" tvg-name="ZURQUI TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZPsoBxWDWYaP59aELUi9ekudNOAONyN11Q&s" group-title="COSTA RICA",ZURQUI TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7zFhqK1r6HT7XV8q7AtNqlKlbowjfzKJINhEq3miEt6
+#EXTINF:-1 xui-id="570292" tvg-id="" tvg-name="¡OPA!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ9DsyLUpghbrtjWD5q5Z08xwDslBNS2Bffg&s" group-title="COSTA RICA",¡OPA!
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-HpoFFIXvnuFxImzcAfjL6_MkEhYqV4Al236z62XPEs
 
 #*****************************CANALES DE PANAMA
-#*****************************
+#***************************** 7
+
+#EXTINF:-1 xui-id="571169" tvg-id="" tvg-name="PA | CABLE ONDA SPORTS OP1" tvg-logo="https://immaa.xyz/PANAMACableOndaSpor.png" group-title="PANAMA",PA | CABLE ONDA SPORTS OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxNTf467_5pvX5_RXyO-sBk4zEHSgv1Tu3jeqsApnaj2
+
+#EXTINF:-1 xui-id="571170" tvg-id="" tvg-name="PA | ECO TV HD" tvg-logo="https://arestv.vip/images/x690edL1_TJBTVZZN1SNpuDJRAHKGDs15j-r5JVvmIuda59s1aeqj8Hm6w2WrBGpAl3JO6sV1pZcDQdmOR-1SktJ3YtV-lSeNGJmcETTCX8.png" group-title="PANAMA",PA | ECO TV HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3lk_L3ng1EgzMmR5k8-hCRC4exjnUEDeMqf8CKTiNTe
+
+#EXTINF:-1 xui-id="571173" tvg-id="" tvg-name="PA | HOSANNA HD" tvg-logo="https://hosannavision.com/site/assets/files/1/hosanna-logo.png" group-title="PANAMA",PA | HOSANNA HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5rB9UKLoZOC64LRj7oi2bNxViQuPSaKES350DwPAbqv
+#EXTINF:-1 xui-id="571181" tvg-id="" tvg-name="PA | NEXT TV 21" tvg-logo="https://immaa.xyz/PANAMANextTVCanal21.png" group-title="PANAMA",PA | NEXT TV 21
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9FY2MMqOp0KcQD-j9YZa8gLCg0hJaX4tyEtr_w9QbcG
+#EXTINF:-1 xui-id="571182" tvg-id="" tvg-name="PA | Onda Sports  HD" tvg-logo="https://i.ibb.co/cgpJt1n/cos.png" group-title="PANAMA",PA | Onda Sports  HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qz3zPxr-7bd77jcaBEi-AbwcQFYEupZ9b2Hxyj9_S4AN
+
+#EXTINF:-1 xui-id="571189" tvg-id="" tvg-name="PA | RPC TV  HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/rpc-television-panama-logo.png" group-title="PANAMA",PA | RPC TV  HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8birBmRcsM8NghYoHzpcpcFeFtDQVcFBJEPdQWEysrb
+#EXTINF:-1 xui-id="571194" tvg-id="" tvg-name="PA | SerTV HD" tvg-logo="https://i.postimg.cc/FsWb3pH7/Ser-TV-Panama-logo.png" group-title="PANAMA",PA | SerTV HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qy05yhrhAFeJWdPCHEWLSBITcpD1BySSoEviURjE8ZT_
+#EXTINF:-1 xui-id="571198" tvg-id="" tvg-name="PA | Telemetro HD" tvg-logo="https://astramain.xyz/images/awTY_P7Si6WAd9aU8QdjzZ0ywHzGZHyj8LnZ5cSOF_OOD4AjGdX_GWtxpwi1gKql.png" group-title="PANAMA",PA | Telemetro HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-AV_pK_LERR22k-eUphZvC6Y-Zdd0Of1qVSE7rY_7kM
+#EXTINF:-1 xui-id="571202" tvg-id="" tvg-name="PA | TIGO SPORTS (EXCLUXIVO) 1" tvg-logo="https://arestv.vip/images/mg9e4VnU5MiobcDarwnBsRPjtfv9dEJQS4zJB9BBYuA.png" group-title="PANAMA",PA | TIGO SPORTS (EXCLUXIVO) 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6pIxBOyxUYmmCNdv-vyZ9mIJr-asBxfuISKVlYGSxfC
+#EXTINF:-1 xui-id="571203" tvg-id="" tvg-name="PA | TIGO SPORTS (EXCLUXIVO) 2" tvg-logo="https://arestv.vip/images/mg9e4VnU5MiobcDarwnBsRPjtfv9dEJQS4zJB9BBYuA.png" group-title="PANAMA",PA | TIGO SPORTS (EXCLUXIVO) 2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4T2ngCF1Q6Mthk8yVh5WtG92P53XALSu6hZm7WUkH1h
+#EXTINF:-1 xui-id="551714" tvg-id="" tvg-name="PA | TIGO SPORTS OP1" tvg-logo="https://arestv.vip/images/mg9e4VnU5MiobcDarwnBsRPjtfv9dEJQS4zJB9BBYuA.png" group-title="PANAMA",PA | TIGO SPORTS OP1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6xHcb4w5CFxwkKDqXsm4I_p-NCP51YiNnuut45W5TD8
+
+#EXTINF:-1 xui-id="571214" tvg-id="" tvg-name="PA | TVN" tvg-logo="https://i.postimg.cc/QtmhVHJZ/images-4.png" group-title="PANAMA",PA | TVN
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-UhisaXFDC6TvXufbhf9cHAom8hR4zoeU9gKp7ixUTS
 
 #*****************************CANALES DE UNIVISION
-#*****************************
+#***************************** 8
 
-#EXTINF:-1,UNIVISION HOUSTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KltUzql7WXGeReQIvN0clKE
+#EXTINF:-1 xui-id="300246" tvg-id="" tvg-name="UNIVISION HOUSTON" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION HOUSTON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8vubjEMVh7_aU8HAYzug_8qDZR3WkVWqRAq7lNWU0Ru
 
-#EXTINF:-1,UNIVISION DALLAS
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KviiYYmjOwACebgCsm8l_04
+#EXTINF:-1 xui-id="617100" tvg-id="" tvg-name="UNIVISION DALLAS" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION DALLAS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyKKVtYu_-KtX7r0qBN_LR2oTGe4yp2AprDWSVyTo-y4
 
-#EXTINF:-1,UNIVISION LOS ANGELES
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqFGNfT2VuUOHz9_Uin1Bd8
+#EXTINF:-1 xui-id="548479" tvg-id="" tvg-name="UNIVISION LOS ANGELES" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION LOS ANGELES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwbcYZBEBrOtXpzNjrl4vXKxxDtZHkf2QdBrJlpQQvE5
+#EXTINF:-1 xui-id="548475" tvg-id="" tvg-name="UNIVISION MIAMI" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION MIAMI
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1bUzWhvR6IGxV7bGWeAEldISdVT1ACVxqbfnxVLxZhq
 
-#EXTINF:-1,UNIVISION MIAMI
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpNr5jwMzlziTkJB0mNSlqs
+#EXTINF:-1 xui-id="290832" tvg-id="" tvg-name="UNIVISION WASHINGTON" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION WASHINGTON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qz0T14DZEpxRcWaEp5ZvdJqJITOGZPZMWV0KT3hCCiEN
 
-#EXTINF:-1,UNIVISION WASHINGTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KktExgms5cstraQI12KLgLg
+#EXTINF:-1 xui-id="548477" tvg-id="" tvg-name="UNIVISION NEW YORK" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION NEW YORK
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-CvFNazzywgR9MQOmzF3LQR0p6Wpyhw_ZF-4CBsOfnr
 
-#EXTINF:-1,Univision New York
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjZxV9NV4xqubInRpFmVcCw
+#EXTINF:-1 xui-id="300250" tvg-id="" tvg-name="UNIVISION TELENOVELAS" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="UNIVISION",UNIVISION TELENOVELAS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3kphPMT82lUoQT46Nsf0K5hGS7i5NoDqgWsTKvEd7W1
 
-#EXTINF:-1,UNIVISION TELENOVELAS
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kmy9M5n5akVjHwFL4IgR0TY
-
-#EXTINF:-1,UNIVISION NOTICIAS
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsAO_0jXx3gwm8OH5bJ8p4A
+#EXTINF:-1 xui-id="548486" tvg-id="" tvg-name="UNIVISION NOTICIAS" tvg-logo="https://1000marcas.net/wp-content/uploads/2023/10/Univision-Logo-thmb.png" group-title="NOTICIAS",UNIVISION NOTICIAS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3klh6wlaerojWgNJdKT6W6aiO8V8Jfi8KRwKk7Qqeia
 
 #*****************************CANALES DE TELEMUNDO
-#*****************************
+#***************************** 9
 
-#EXTINF:-1,TELEMUNDO GALVESTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhodHtcBJ1NfaKmpWOYx264
+#EXTINF:-1 xui-id="300222" tvg-id="" tvg-name="TELEMUNDO GALVESTON" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO GALVESTON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_m5ZWptftbW_l7LV_pjwy19Yov5aPIUl-Fxt_GNmc1h
+#EXTINF:-1 xui-id="300231" tvg-id="" tvg-name="TELEMUNDO HOUSTON" tvg-logo="http://www.tmsimg.com/assets/s10239_h3_aa.png" group-title="TELEMUNDO",TELEMUNDO HOUSTON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3pWWz0RRBtTWkI2N8EiM_U0f5XD2joYca2zmAZDv9Yr
 
-#EXTINF:-1,TELEMUNDO HOUSTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kkqe3LXQbJBJFBdpF01UNyE
+#EXTINF:-1 xui-id="300224" tvg-id="" tvg-name="TELEMUNDO SAN ANTONIO TX" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO SAN ANTONIO TX
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6w66Oa1Y9ylrivALuMSiQ3UJSwMa8HlsJ4RjrZn9Lwi
 
-#EXTINF:-1,TELEMUNDO SAN ANTONIO TX
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjGUIvJxtIlfdmacWCDYYP8
+#EXTINF:-1 xui-id="300213" tvg-id="" tvg-name="TELEMUNDO 39 TX HD" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO 39 TX HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2-onpGEvNLBsm1TQFucDehTveSU_JEi3OQJiP-YLelL
 
-#EXTINF:-1,TELEMUNDO 39 DALLAS TX HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnDCTaLnWKgGVwtpTQAnFoc
+#EXTINF:-1 xui-id="548463" tvg-id="" tvg-name="TELEMUNDO LOS ANGELES" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO LOS ANGELES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwkTH-ijkUNAAUBD1OrVMaWhjvmQ8VvDLeynJAYAxTac
 
-#EXTINF:-1,TELEMUNDO LOS ANGELES
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsB1BzSckYGpzXNUXU5I5F8
+#EXTINF:-1 xui-id="613928" tvg-id="" tvg-name="TELEMUNDO MIAMI" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO MIAMI
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3eFkJq4bkdeV7v9AegLeYmY6WpJhMWqHhR00eVXHpFx
 
-#EXTINF:-1,TELEMUNDO MIAMI
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Knssh0bM_Pb1kDnrlFVfXTg
+#EXTINF:-1 xui-id="613944" tvg-id="" tvg-name="TELEMUNDO NEW YORK" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO NEW YORK
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-gUF3GPydhUrY879Ee_SZVml8_QmGyPz3umRsulZfoD
 
-#EXTINF:-1,TELEMUNDO WASHINGTON
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqqSHUoamwP2OGjXvsmlHFc
+#EXTINF:-1 xui-id="300206" tvg-id="" tvg-name="TELEMUNDO WASHINGTON" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO WASHINGTON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8c4TE2RlDuxzKb7YquUASOKLa8Y-lsoZrAR077aO3I-
 
-#EXTINF:-1,TELEMUNDO NEW YORK
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KktvLOzrZ9dNF1z6pVodRqk
+#EXTINF:-1 xui-id="661749" tvg-id="" tvg-name="TELEMUNDO TELENOVELAS" tvg-logo="http://www.tmsimg.com/assets/s10239_h3_aa.png" group-title="TELEMUNDO",TELEMUNDO TELENOVELAS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6doZljoZPMSYACzvK9x0us2aymDcmJsCcENRVz-ixkV
+
+#EXTINF:-1 xui-id="624811" tvg-id="" tvg-name="TELEMUNDO NOTICIAS NORESTE" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="TELEMUNDO",TELEMUNDO NOTICIAS NORESTE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyQojyTz7YC0Z14M9hYbzI5zfMKm6Vx6sZznZEExWZMR
 
 #*****************************CANALES DE GALAVISION
-#*****************************
-
-#EXTINF:-1,GALAVISION HOUSTON HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kr5f2p2i6r8Wosm7s9SCmhE
+#***************************** 10
 
 #EXTINF:-1,USA | GALAVISION SAN ANTONIO
 http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpjlphkZ84rhYLfbgPc9LJk
 
-#EXTINF:-1,GALAVISION LOS ANGELES HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkKNg4K0YS8lvLoxh4ubDWk
+#EXTINF:-1 xui-id="673381" tvg-id="" tvg-name="GALAVISION LOS ANGELES HD" tvg-logo="http://ceoapps.org/logos/galavision.png" group-title="GALAVISION",GALAVISION LOS ANGELES HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q46CFLsVIqaBV6tbvTguKp9LyfKTgwf5sPDlElMkH5fi
+#EXTINF:-1 xui-id="673382" tvg-id="" tvg-name="GALAVISION MIAMI HD" tvg-logo="http://ceoapps.org/logos/galavision.png" group-title="GALAVISION",GALAVISION MIAMI HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qx-hsz9tQxIm21WCDgFCHZULlh5U1Yi0QX3GHbtS3T5B
 
-#EXTINF:-1,USA | GALAVISION MIAMI
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KgbbDoxFLHdta9w1qEJVIK8
-
-#EXTINF:-1,GALAVISION NEW YORK HD
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks0QfqaZOhNg80AMGX9FH0I
+#EXTINF:-1 xui-id="673388" tvg-id="" tvg-name="GALAVISION SAN FRANCISCO HD" tvg-logo="http://ceoapps.org/logos/galavision.png" group-title="GALAVISION",GALAVISION SAN FRANCISCO HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q72pCs2WsZ9iKu0BXRQpmvfivPCuwQ1_KH1YdQmkhHEO
 
 #*****************************CANALES DE UNIMAS
-#*****************************
+#***************************** 11
 
-#EXTINF:-1,LAT USA | UNIMAS
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks_f0CWbJPyN5bNOOw865tE
+#EXTINF:-1 xui-id="892004" tvg-id="" tvg-name="UNIMAS HOUSTON HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS HOUSTON HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2_k35JIZg0o2pNvJQ9XoJevmZKr4Iae28N3l-A8G0WG
 
-#EXTINF:-1,LAT USA | Unimas Los Angeles
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kg2nGkHizvRuCCSTJXvhEnI
+#EXTINF:-1 xui-id="892012" tvg-id="" tvg-name="UNIMAS SAN ANTONIO HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS SAN ANTONIO HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4-L8xuEGyNl2qp1EtZgvFiWpRc-HvI3v91L3-UtmfUL
 
-#EXTINF:-1,Unimas Miami
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KtYgZCPWKr-8RcNi-YHEwsc
+#EXTINF:-1 xui-id="892000" tvg-id="" tvg-name="UNIMAS DALLAS HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS DALLAS HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8d9CZMeQpu1TYWmL8wFYHSpxrIOorvBVf_3r8rHhw77
 
-#EXTINF:-1,UNIMAS NEW YORK
-http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KiiMIiKG8aSiLehulpx-XfQ
+#EXTINF:-1 xui-id="892006" tvg-id="" tvg-name="UNIMAS LOS ANGELES HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS LOS ANGELES HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q26ZbmZ1n68CHtm1CYsKZrIRQ68hn_RbtRqrJxZFEtKy
+#EXTINF:-1 xui-id="892007" tvg-id="" tvg-name="UNIMAS MIAMI HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS MIAMI HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q14fUn4LepJiAzsMcZKoh2zii3idybpKp_1Rl7ZG106n
+#EXTINF:-1 xui-id="892008" tvg-id="" tvg-name="UNIMAS NEW YORK HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/07/unimas-logo.png" group-title="UNIMAS",UNIMAS NEW YORK HD
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6WLL1TIADzXTFvd9o4AtAhi7LqHz5NiA27cqN35Op3g
 
 #*****************************CANALES DE VIX
-#*****************************
+#***************************** 12
 
-#EXTINF:-1,VIX Premium | 40 Y 20
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Ue2EKoOAErVTELitk5YtmU
+#EXTINF:-1 xui-id="624326" tvg-id="" tvg-name="VIX | Cops en Español" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Cops en Español
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-JLjZcTuy_yWW-Dj12LEgTfapN-kVPTt4P92NEOuiJU
+#EXTINF:-1 xui-id="624325" tvg-id="" tvg-name="VIX | Risas Picantes" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Risas Picantes
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5zvv2LiZK30-3GEesMA4AVsd__0QyFHgqCAW5D8M6Yo
 
-#EXTINF:-1,VIX Premium | Amor Real
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3S7FIJ_04m-zC4MsSHkE9sU
+#EXTINF:-1 xui-id="609262" tvg-id="" tvg-name="VIX | 40 Y 20" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | 40 Y 20
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxHA0J3PvNOtWflqVdKGMsOFBhFZ_AbUNVTrwLKYrENb
 
-#EXTINF:-1,VIX Premium | Canal 5
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QnvEwV6hdUcyFbxJgRWegs
+#EXTINF:-1 xui-id="609248" tvg-id="" tvg-name="VIX | Amor Real" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Amor Real
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8eUKyLzqEAM3soX2WgnUp58XIC4Fm3Mfgl-zXanxFtX
+#EXTINF:-1 xui-id="609259" tvg-id="" tvg-name="VIX | Canal 5" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Canal 5
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwJddsRY1wFB8DteApz3R0-eGRo0-Ev7y28ZpdHWZdCq
+#EXTINF:-1 xui-id="610874" tvg-id="" tvg-name="VIX | Cine Retro" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Cine Retro
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6Tihyk1aQGuZtaA0TU0xlyuMr641c2Vl0QqBXlz1UMp
+#EXTINF:-1 xui-id="587618" tvg-id="" tvg-name="VIX | Como Dice el Dicho" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Como Dice el Dicho
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxTwO_FOdrE6sugkE5oOhu5wd4v8SJFezqD3YAZsb3v1
+#EXTINF:-1 xui-id="587617" tvg-id="" tvg-name="VIX | La Familia PeLuche" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | La Familia PeLuche
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4OE3yUt3mtDIs_sacZTjE7lqVPOy0msxN2o7ARqVIKk
+#EXTINF:-1 xui-id="609247" tvg-id="" tvg-name="VIX | La Fea Mas Bella" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | La Fea Mas Bella
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q93yZ0oUfnesALQE3RBuCh3bMzAhnGweF6iwdcqErjmX
+#EXTINF:-1 xui-id="609246" tvg-id="" tvg-name="VIX | La Que No Podia Amar" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | La Que No Podia Amar
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q53WBn05YjB3-eTFgxwilgzL2k1uwM5FOnBYJIqvfLwS
+#EXTINF:-1 xui-id="587616" tvg-id="" tvg-name="VIX | La Rosa de Guadalupe" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | La Rosa de Guadalupe
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1v_GtK2iTmXPSeE0uqwq-LByPY7iMxAW6EyFtb1B3oB
 
-#EXTINF:-1,VIX Premium | La Fea Mas Bella
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XDybxVQ0HKEEduwegIwfqA
+#EXTINF:-1 xui-id="609261" tvg-id="" tvg-name="VIX | Lo que la vida me robo" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Lo que la vida me robo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_FSVkFTs5lLwjrVWOD2DGnNlOLZYwAdlb9QCrds2wYc
+#EXTINF:-1 xui-id="609250" tvg-id="" tvg-name="VIX | Mi Corazon es Tuyo" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Mi Corazon es Tuyo
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1k3aJMUCS-iUDc-2zN_D5b2vosqa7Iy3leFZaov_IJx
 
-#EXTINF:-1,VIX Premium | La Que No Podia Amar
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3aAaayqZAvtnJTS-DQBOPfg
-
-#EXTINF:-1,VIX Premium | La Rosa de Guadalupe
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ayETc6GL2cyRVCyYIzDVaM
-
-#EXTINF:-1,VIX Premium | Lo que la vida me robo
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3QvRVCSK5mgN1lyIsFoxxoQ
-
-#EXTINF:-1,VIX Premium | Mi Corazon es Tuyo
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fb9Rz4H_gDADcajVXaunj4
-
-#EXTINF:-1,VIX Premium | Rebelde
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XAZq0H-figd1pO-F3Ct5Dc
-
-#EXTINF:-1,VIX Premium | Teresa
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3d8OjW4vT4FjuU0NTsGjHVs
-
-#EXTINF:-1,VIX | CINE RETRO
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3XySdHV-PZPRY0CoX5heTqg
-
-#EXTINF:-1,ZONA TUDN VIX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3TMB9cqSuPMyRR_-rmFz9-E
+#EXTINF:-1 xui-id="609251" tvg-id="" tvg-name="VIX | Teresa" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="VIX MX",VIX | Teresa
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-XRyVkiKFErSesn0Whg0rJpf0LNg_vC2tJ9C6uGrGo6
 
 #*****************************CANALES DE HBO
-#*****************************
+#***************************** 13
 
-#EXTINF:-1,MX | HBO SIGNATURE Opc.2
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bB9mk_GQlgqQUyNyxnF7PI
+#EXTINF:-1,HBO XTREME | MX
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KqWhnK8FicP6MPlWWMxnpjw
 
-#EXTINF:-1,HBO MUNDI | MX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VuzJC19Pyd69esG8byl8fQ
+#EXTINF:-1,MX | HBO Opc.1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kpx5kxpDLkgn4PKSxf7S_WE
 
-#EXTINF:-1,HBO XTREME
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3dqRE5wIkL1POcVY5swu2dc
+#EXTINF:-1,HBO POP | MX
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhVlPHWFzFUlR6wIMOImKdM
 
-#EXTINF:-1,HBO PLUS | MX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cX3mJzOj6DtOyR29Dcc58o
+#EXTINF:-1,HBO
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ki1DIJ5JHjyxWINtKGn4Ooc
+
+#EXTINF:-1,HBO 2 | MX
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KlENucqTLJvjKrPvKCxwkis
 
 #EXTINF:-1,HBO FAMILY | MX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UGDsKyiHNjK9t4hI9c3Uws
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kq8c63iX-I94c3P9c5b4HNc
+
+#EXTINF:-1,HBO 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KoD7-F3ZskfFS12t1gJtRxI
 
 #*****************************CANALES DE STARZ
-#*****************************
+#***************************** 14
 
-#EXTINF:-1,STARZ ENCORE CLASSIC OPT 2
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Vg7xzwanAvdwjMA08PnCB0
+#EXTINF:-1,STAR CHANNEL
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KhUfz7X2ZZHjShun2Oi2QRc
+#EXTINF:-1,START CHANNEL MX
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkBJuO8S8bdpofcxiaeyOaQ
 
-#EXTINF:-1,STARZ ENCORE ACTION OPT 2
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3fjHq_EqS0eYZLEP2kdN4qE
+#EXTINF:-1,STARZ ENCORE OPT 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kuxvi0X-a49-fMWuqcPE1iw
 
-#EXTINF:-1,STARZ EAST OPT 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3YbVP4dC4l6IMLJSh91qTsk
+#EXTINF:-1,Star Channel FHD
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Kn7lRauuzFKucbci9bcLfvE
 
-#EXTINF:-1,STARZ KIDS & FAMILY OPT 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bF4CTtAFrrxYsZz72wMkQw
+#EXTINF:-1,STARZ ENCORE WESTERNS OPT 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KrHSc_dPhKhhiy9q9F976g8
 
 #*****************************CANALES DE DISCOVERY
-#*****************************
+#***************************** 15
 
-#EXTINF:-1,Discovery TLC 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cj1dBjyV5fKi78DLRECuH8
+#EXTINF:-1 xui-id="572555" tvg-id="" tvg-name="DISCOVERY CHANNEL OPC.2" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw2FczURygLzGairYFJAZhySl-vU8CFxI8J-a_hBVGFpkfZuZhj0fleWy--KtTsD5U2BvVwtvP459AvFm06pVl8g.png" group-title="CULTURA",DISCOVERY CHANNEL OPC.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qw44vRaByFFR9ady3caPDWmZ-3SVKKWuhvJcqNomDFWM
+#EXTINF:-1 xui-id="646521" tvg-id="" tvg-name="DISCOVERY FAMILIA" tvg-logo="https://arestv.vip/images/yUKQxk8wIoqfUfqhV-S-8XVIV2JRjmyPPSD74B34E2vnSz2DqnjJuQA5Fn4rBp2088OhG2CA-AVMWKlq89iM2w.png" group-title="CULTURA",DISCOVERY FAMILIA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0T_WfsBabWS2vseOVbgz1m2SDZ0fBNpH3knjPvebEEe
+#EXTINF:-1 xui-id="163518" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH OPC.1" tvg-logo="https://arestv.vip/images/qw9Sd5JnDX2uSQDrGmMcupzP9XsMxjBNpaslo4E6M3YAhVyX5PzlYmVocRSVXqweRbNP28edbM-yhilqqzVgaQ.png" group-title="CULTURA",DISCOVERY HOME & HEALTH OPC.1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2qtbE7dmNfASivXCMVWQJ9BsnpWq6xuS13jZpZAkM4r
+#EXTINF:-1 xui-id="646522" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH OPC.2" tvg-logo="https://arestv.vip/images/qw9Sd5JnDX2uSQDrGmMcupzP9XsMxjBNpaslo4E6M3YAhVyX5PzlYmVocRSVXqweRbNP28edbM-yhilqqzVgaQ.png" group-title="CULTURA",DISCOVERY HOME & HEALTH OPC.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8s3_i3FZbiNv1H94Xq2Wn5AVgWtUXxznHJ5dml06yd_
+#EXTINF:-1 xui-id="572558" tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40uBOm6KmhbgFJp_-vkejqFYbMobsXCU08w&s" group-title="CULTURA",DISCOVERY ID
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qy5oKFC3XDJGx4gGbrKFEMZdW9BUEjN0HuJ9IlFXhMlD
+#EXTINF:-1 xui-id="673374" tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://listado.16mb.com/goat/dkids.png" group-title="INFANTIL",DISCOVERY KIDS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8mwQGsOFqbX4BlNtkBepzBL6_HLhtNVD1U9GTuVlD8n
+#EXTINF:-1 xui-id="646524" tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBJgi5MQSF-Zhcc6AMUTDOTxgz9ITpe0JcGw&s" group-title="CULTURA",DISCOVERY SCIENCE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0weuVUI2ea5J6ciKhEWmSJGJqXm7oZzOEst03BTzUUQ
+#EXTINF:-1 xui-id="163526" tvg-id="" tvg-name="DISCOVERY THEATER OPC.1" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="CULTURA",DISCOVERY THEATER OPC.1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzU9LFTaIDeAd49pfF8sCKOqlw8QSCF2lUTJg_IzkdFZ
 
-#EXTINF:-1,Discovery Turbo
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VaNTZR4S9fPYAFJBMujUgQ
+#EXTINF:-1 xui-id="646530" tvg-id="" tvg-name="DISCOVERY TLC" tvg-logo="https://immaa.xyz/culDISCOVERYTLCHD.png" group-title="CULTURA",DISCOVERY TLC
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4AMbLzV21hRrdc6XkAkIBd9224q3IoHjsYYxUcOcFUo
 
-#EXTINF:-1,DISCOVERY SCIENCE
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Zt2I1v7YYSrqq9CznGbtGQ
-
-#EXTINF:-1,Discovery Home & Health
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3aCHf4KMH-cGbOBoz5Di4-8
-
-#EXTINF:-1,Discovery Familia
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3T5-esuN8uHVlfqag-6ocmw
-
-#EXTINF:-1,Discovery Channel
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3ZBW2NqPq7u31W9-1BV_mgQ
+#EXTINF:-1 xui-id="300170" tvg-id="" tvg-name="DISCOVERY TURBO OPC.2" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="CULTURA",DISCOVERY TURBO OPC.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q20ooIMZ4aQFXaGMK3cWnCXBBpy_cVgR0OSnASbEu0b2
 
 #*****************************CANALES DE SHOWTIME
-#*****************************
+#***************************** 16
+
+#EXTINF:-1,SHOWTIME NEXT OPT 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmfUd7LxA2lrYyWJ0vbUZ38
 
 #EXTINF:-1,Showtime Latino
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3b_Erk6tTdyNJ0fMpN6QPVM
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KojpZPdYRasmwPeazD5Jg2s
 
-#EXTINF:-1,SHOWTIME EXTREME OPT 2
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3VpFvG_3mvPUyaibu-AZ5zk
+#EXTINF:-1 xui-id="673876" tvg-id="" tvg-name="US: SHOWTIME SHOWCASE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIMESHOWCASE.png" group-title="USA CINE",US: SHOWTIME SHOWCASE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1vD3F5vXdtndU3ZADqVL_XpYYewgoqMEvMN9HrbCVhc
+#EXTINF:-1 xui-id="673875" tvg-id="" tvg-name="US: SHOWTIME NEXT" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIMENEXT.png" group-title="USA CINE",US: SHOWTIME NEXT
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6gn6Twu2RRjdmkyk_utlxsL2egm-hZTTY7f8tnJqZMf
+#EXTINF:-1 xui-id="673874" tvg-id="" tvg-name="US: SHOWTIME FAMILY ZONE" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIMEFAMILYZONE.png" group-title="USA CINE",US: SHOWTIME FAMILY ZONE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7G8YpgKztIOqu_-PQfBp8Javlw7GqD-ZPZip5_KxycU
+#EXTINF:-1 xui-id="673873" tvg-id="" tvg-name="US: SHOWTIME EXTREME" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIMEEXTREME.png" group-title="USA CINE",US: SHOWTIME EXTREME
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6qtbJZLCaMAqMj76IByz4v2u0MTFqhwy4w8bZRV9d2y
+#EXTINF:-1 xui-id="673872" tvg-id="" tvg-name="US: SHOWTIME 2" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIME2.png" group-title="USA CINE",US: SHOWTIME 2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxqXFhp8Py516XdTSLwLZPS-p9_sbKFRrzvKnp373Tcr
+#EXTINF:-1 xui-id="673871" tvg-id="" tvg-name="US: SHOWTIME" tvg-logo="http://stalkertvlatinoplay.com/LOGOS/SHOWTIME/SHOWTIME.png" group-title="USA CINE",US: SHOWTIME
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0IxV8CvoS8CJ3UX51JZh7J7XFOuk8si0PZ_kNH5pe8X
 
 #*****************************CANALES DE TNT
-#*****************************
+#***************************** 17
 
 #EXTINF:-1,TNT Series
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Thw1r2pwL20vvtc6mvlck8
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpWtj_9_ckvCzXGsUCf7Py4
 
 #EXTINF:-1,TNT SERIES Opcion 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3W-Uy9pdjsGgUbbxKManzck
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KmiS14we-px-1mJc_VuP2j8
 
 #EXTINF:-1,TNT SERIES Opcion 2
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3Y9kWRxMEaK56s6O-zCFgcU
-
-#EXTINF:-1,TNT NOVELAS Opcion 2 | MX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3bS_ANaWMZSQ_ylwAokiWuM
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KpRybmZbZCLesrPr8Jx3wUo
 
 #EXTINF:-1,TNT NOVELAS Opcion 1 | MX
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3cvAkXBw1UZBcKYKhAtBp1U
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KkfiVgtrl2xLwLFCKrH9fM4
+
+#EXTINF:-1,TNT
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KjJTAPE9gj9jzUfZtCos9wA
+
+#EXTINF:-1,TNT SPORTS 1
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KohAg182zHbzzCIDbZROpUU
+#EXTINF:-1,TNT SPORTS 2
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KnJAyUCTaHak55Q5tiqUBNc
+#EXTINF:-1,TNT SPORTS 3
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6KsEHwnePrgB51SYl4539e5Q
+#EXTINF:-1,TNT SPORTS 4
+http://multiplex.lat:80/play/5tmPsIMjx9yqJPRbwIn6Ks4mEvBJrggYQVzHotkT5Pk
 
 #*****************************CANALES DE SONY
-#*****************************
-
-#EXTINF:-1,SONY
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3f_ki03zF_EYRikMDFQK-BA
-
-#EXTINF:-1,SONY COMPETENCIAS
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3biXF8BG79xvWiGPGgFtD2o
-
-#EXTINF:-1,SONY MOVIES Opcion 1
-http://multiplex.lat:80/play/sPZoZC-2wiexHhPj3fcu3UibS6vhBCLokblr-2mhGJo
+#***************************** 18
 
 #*****************************CANALES DE MEXICO 1
-#*****************************
+#***************************** 19
 
+#EXTINF:-1 xui-id="572822" tvg-id="" tvg-name="A+" tvg-logo="https://lsmaba.live/images/sE2a6mvaaPoTQgwGzNl6iDwImHpqDaQuRf1nwgIg2A6_BP_5M33cNJCfVhCWVPiWpF1gt9QY8ACmcRgkNozZdQ7YiLA_UfKwDdV85PABTqKobpBfrIGrVzkxmJb74tNhxawCzu2VcfVLxGg14qfZ2A.png" group-title="MEXICO",A+
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9uGGEvotCM1yg2Lf9FY9E0yzoZef1ocWqpaPn0VtEZw
+#EXTINF:-1 xui-id="572447" tvg-id="" tvg-name="ADN 40" tvg-logo="https://th.bing.com/th/id/R.d46444904658ce1e4f895c0338ce27c1?rik=wQLUrCQ6fdNFzQ&riu=http%3a%2f%2fdirectostv.teleame.com%2fwp-content%2fuploads%2f2018%2f02%2fADN-40-en-vivo-Online.png&ehk=%2fhGu0g2u9i5yfict%2fDb8xgEzRBujBfIgEZ7itohFsQ8%3d&risl=&pid=ImgRaw&r=0" group-title="MEXICO",ADN 40
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q9sxBZQs3mL98eZ2OwHEw_ExgAs-lWXiSE9PNarTyvaO
 
+#EXTINF:-1 xui-id="572459" tvg-id="" tvg-name="AMX NOTICIAS OPC 1" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMaLkmcwQBo-vjDBV53hJi8F3wiD5AQU6JM9HP8kDH97Y.png" group-title="NOTICIAS",AMX NOTICIAS OPC 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyrzsrBzDODBXMZ1EBWAljS28WYXd0lqM5sAOL5Wia_S
+#EXTINF:-1 xui-id="572815" tvg-id="" tvg-name="AZ CLIC" tvg-logo="http://icomplay.net:80/images/DLu6wPayhmXi4Shb7v3BIu2mF0AYOyi76qY74Zxbv7gMiRXAQzaGjNEoFEv5xkeH.png" group-title="MEXICO",AZ CLIC
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5Pf-AbfA6wIf6_FsAexF-_jtFAodhDvq9GaTXUmi-BV
+#EXTINF:-1 xui-id="651345" tvg-id="" tvg-name="AZTECA 7 MONTERREY" tvg-logo="https://th.bing.com/th/id/R.8d2c63c490282116786291a737250183?rik=Vd/l4zH+2G9KOQ&riu=http://img3.wikia.nocookie.net/__cb20140426231035/doblaje/es/images/a/a9/Azteca_7_Logo.png&ehk=qWEz8wM32EqWNjpZainrprHQFku5975yAsE8N5Dzr60=&risl=&pid=ImgRaw&r=0" group-title="MEXICO",AZTECA 7 MONTERREY
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q--l8vW2Cst31EADHbwU3Es-PWB9ed-Utmlwpl_dd2_C
+#EXTINF:-1 xui-id="572812" tvg-id="" tvg-name="AZTECA CINEMA" tvg-logo="https://i.ibb.co/9shCDfh/cl-az-cinema-m.png" group-title="CINE PREMIUM",AZTECA CINEMA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_S_0fbvrw7mp8gI6jglNZXLxutSE_bwOFwFswa23EBO
+#EXTINF:-1 xui-id="572488" tvg-id="" tvg-name="AZTECA DEPORTES" tvg-logo="https://arestv.vip/images/Bp-vRtZEje6kFpdMZzWxZwomsSTcJRUoSkySIZ4aHGwOAyDtPO_H0HZIECrFLeBFfdbI6M3aqARLRbn5rX2EolqyKcMHPslCzY3DA92ev3w.png" group-title="MEXICO",AZTECA DEPORTES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-xYrXaZCoDIqho8jBOusYCLTDwLXiQ9V_6JHGRpk_QA
+#EXTINF:-1 xui-id="572824" tvg-id="" tvg-name="AZTECA INTERNACIONAL" tvg-logo="http://icomplay.net:80/images/DLu6wPayhmXi4Shb7v3BInGpATQN_fOPiLzdzS4MC6MZv6K0_NJCLbdzQOUhCYsc.png" group-title="MEXICO",AZTECA INTERNACIONAL
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6qSvVWnCJeDR3O03tBj5sboemKF8Cxq74AKtjbXyL_w
+#EXTINF:-1 xui-id="572494" tvg-id="Canal.Azteca.Uno.mx" tvg-name="AZTECA UNO" tvg-logo="https://astramain.xyz/images/LDN_2LoxNi45aNO9u6WClIggHdenumRsYVXKF6cYDUfCnTeWAj9R3ecDt9NgQOGY.png" group-title="MEXICO",AZTECA UNO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyB190i0QLkqRR1gN-jEpt25NQEWT4qcbSQUKLsk7VHQ
+#EXTINF:-1 xui-id="572830" tvg-id="" tvg-name="CANAL 10 CANCUN" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="MEXICO",CANAL 10 CANCUN
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyGNnL7f5nc-UhtKifzv57E4vz1PttMuCWIZkG3nLG01
+#EXTINF:-1 xui-id="572867" tvg-id="" tvg-name="CANAL 12 TIJUANA" tvg-logo="https://i.imgur.com/KYQi0uA.png" group-title="MEXICO",CANAL 12 TIJUANA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3j0c4fL66dfnl0mOs1DVIIRqobw_Vj0r0L4Z-G6OFTv
+#EXTINF:-1 xui-id="618651" tvg-id="" tvg-name="CANAL 13 OAXACA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAapP4wXYoCeWShtN4-eow8o8hpOurscEorA&s" group-title="MEXICO",CANAL 13 OAXACA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8uRHq4AwmGH1Ja1VCGbJMTyW6ezs-qYmi7TuO0NrjPi
+#EXTINF:-1 xui-id="572512" tvg-id="" tvg-name="CANAL 14" tvg-logo="https://i.imgur.com/QDT0gcA.png" group-title="MEXICO",CANAL 14
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3CtL43GS8djNHTXP-Zi4ZsaxrCvmnCIIy08WuJbKlLf
+#EXTINF:-1 xui-id="572832" tvg-id="" tvg-name="CANAL 22" tvg-logo="https://i.imgur.com/uFUmX5f.png" group-title="MEXICO",CANAL 22
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2UVXPKGrBBuWc8G3Ri3uaeiJzuPRxC1bhRDewH3gA9J
+#EXTINF:-1 xui-id="611668" tvg-id="" tvg-name="CANAL 26 AGUASCALIENTES" tvg-logo="https://media.sketchfab.com/models/b64441908b4d4507bcdafd2f8ffdd152/thumbnails/3d401a493cdb4e3c8b427c76a3bf27ae/de731921080c4e1db90c0a58adae4744.jpeg" group-title="MEXICO",CANAL 26 AGUASCALIENTES
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q2Ccci4l3QpYaSuWWznjxUnsIyzw9s_ce_R0g5W1gL5P
+#EXTINF:-1 xui-id="572834" tvg-id="" tvg-name="CANAL 28 NUEVO LEON" tvg-logo="https://i.imgur.com/HrEuoQl.png" group-title="MEXICO",CANAL 28 NUEVO LEON
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_Dc83pFe26CqVTFkdllmfZP0GDBzIrtWsNsgyWVJ9UC
+#EXTINF:-1 xui-id="598861" tvg-id="" tvg-name="CANAL 4 GUADALAJARA" tvg-logo="https://arestv.vip/images/vQIjAnKmdTArDQNEHKQgJyxXZM8dp5Cg_5OQCIYfcYacH4xKb9Rm0MvJu138l1ea.png" group-title="MEXICO",CANAL 4 GUADALAJARA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q-Xbd3zjTqXHSqC4dl4QjY7eajnVgtz29sCdgFdL8CPp
+#EXTINF:-1 xui-id="572520" tvg-id="" tvg-name="CANAL 44 CHIHUAHUA" tvg-logo="http://icomplay.net:80/images/5yO0q3KiCJJhxVmvmdRMb5fJ-q9OONH-9oyw9j1njZk.png" group-title="MEXICO",CANAL 44 CHIHUAHUA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0AE71TwXw01JDByYpzh5byZw0FbOOxcdQ7rhactlUBo
+#EXTINF:-1 xui-id="891995" tvg-id="" tvg-name="CANAL 5 OPC.1" tvg-logo="http://www.tmsimg.com/assets/s16463_ll_h3_aa.png" group-title="MEXICO",CANAL 5 OPC.1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5ZvZICmaB1yrlZDCU41oNW8HQHjtSNpOdJQler2LK-E
+#EXTINF:-1 xui-id="572529" tvg-id="" tvg-name="CANAL 66 MEXICALI" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMc9OCDe9kwy6J0rCoUU6xm-KSKAMcbm_pw-g8Qq4SlTMxO7q-pni6vMDLsBZK1grF7ruOgch6nk6oG1JtCyMVuo.png" group-title="MEXICO",CANAL 66 MEXICALI
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8xPB8odcrXfdlAaav_2kwaSxDeCQuYGjD1QyAjf952H
+#EXTINF:-1 xui-id="572535" tvg-id="" tvg-name="Canal NU9VE" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbwyIYuxpBCeD1SOsaZnhmBT_SqnTyGJt8qlIkG6nDinHt--HN9Odxj0BqKt2oC3T3kWH9NUsKNwOt--mbCol7EoY.png" group-title="MEXICO",Canal NU9VE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qx07d6Z8kM9HNvTwgjs5_7c98xchFqLYIQVANT8tM_Mp
+#EXTINF:-1 xui-id="572718" tvg-id="" tvg-name="CANAL ONCE" tvg-logo="https://btv.mx/posters/1724198860348.png" group-title="MEXICO",CANAL ONCE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q418ll5gcYJh7-ek3b4xly0p5W_nYo5ToiCo1xpihIFZ
+#EXTINF:-1 xui-id="598857" tvg-id="" tvg-name="CNN ESPAÑOL OPC 2" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw4zsysVPZIwF4BLnBmpBvtW1wB5X5Mzh8GsNn4fUT099f3pI9kCTUCSJqJ8fIuug6h9BG1v-bLAhd8CRiKQhsM0.png" group-title="NOTICIAS",CNN ESPAÑOL OPC 2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1jo-3rxeKJiPgjQJfCjHIs4_pb_yQCHHm2ekZTDZEoh
+#EXTINF:-1 xui-id="572554" tvg-id="" tvg-name="DE PELICULA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9wdNH2VMX9VlcZZV-Wl-pUCNegeb5rftxQ&s" group-title="CINE PREMIUM",DE PELICULA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4z3HNAZCx5W7TnOC22kyXk78k0FaLxSrUOGDX0FQRd1
+#EXTINF:-1 xui-id="581154" tvg-id="" tvg-name="DE PELICULA CLASICO OPC 1" tvg-logo="https://i.ibb.co/RQnQqNg/depelicula.png" group-title="CINE PREMIUM",DE PELICULA CLASICO OPC 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QyNM7ZemP626IQ_STsWSVhp71Xbz4c-P-yJrHWmaJjfS
+#EXTINF:-1 xui-id="572553" tvg-id="" tvg-name="DE PELICULA PLUS OPC 1" tvg-logo="https://goldenlatino.vip/images/tuqBB_f16oO5tB3fCl-II8xpoMuQaYqJTqkwTvyc3i9e9HavDHoTpUxGb04iT9BPm0WmvM5qVFfyTCoNnVSFyPD8zt5jJ4-WrcdPNLk-2hc.png" group-title="CINE PREMIUM",DE PELICULA PLUS OPC 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4mvUnU0CqLvHh7lIdRICmmwPLUorLHhKmcQfjq50DmM
+#EXTINF:-1 xui-id="572597" tvg-id="" tvg-name="FORO TV OPC 1" tvg-logo="https://img.asmedia.epimg.net/resizer/8z-sYRzwUzhXh5EncIgTivt6Idg=/1472x828/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="NOTICIAS",FORO TV OPC 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxmT3m3K-ru8q6jjCLhx3tHeb4jEZ4i9K5a5QY28g_wG
+
+#EXTINF:-1 xui-id="572838" tvg-id="" tvg-name="IMAGEN TV" tvg-logo="https://i.imgur.com/ubPVDAg.png" group-title="MEXICO",IMAGEN TV
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1xLkLj8UjYnkQ9bit3C1JbKnXIbs5lyi11U89PlQVmi
+#EXTINF:-1 xui-id="653837" tvg-id="" tvg-name="LAS ESTRELLAS -1HR" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" group-title="MEXICO",LAS ESTRELLAS -1HR
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QwU7QBEd4b68QGiSiggRuNYTwz5-F9QsdemR43_CnjTW
+#EXTINF:-1 xui-id="572843" tvg-id="" tvg-name="LAS ESTRELLAS -2 HRS" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" group-title="MEXICO",LAS ESTRELLAS -2 HRS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5TTVg_ut77pqXqoN11Sl-rHQnUcR1qk3AnxdPSXI2dm
+#EXTINF:-1 xui-id="598863" tvg-id="" tvg-name="LAS ESTRELLAS OPC.2" tvg-logo="https://i.ibb.co/SRQxnY4/images.png" group-title="MEXICO",LAS ESTRELLAS OPC.2
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QykL-dO_nmIvStAD95V2cP3N1kZofXhdVzYVZ9rZI2QS
+#EXTINF:-1 xui-id="572680" tvg-id="" tvg-name="MARIA VISION" tvg-logo="http://icomplay.net:80/images/yJgtMZWslHIkXGjbS6hbw6EkuT_hkZwAvHPxa7UqcfTHcWnLuGCEgFAcQCwyvFyoGsZjn9f_vT9Hszu1gmA6k6_4BRXOHbJwIcKQkHyIdrU.png" group-title="RELIGION",MARIA VISION
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxQaTR_H_hYiDJPiw8SNesmP9tKkjnV9zHB5sIuWSBQe
+#EXTINF:-1 xui-id="598870" tvg-id="" tvg-name="MEXIQUENSE" tvg-logo="https://i.imgur.com/QDT0gcA.png" group-title="MEXICO",MEXIQUENSE
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q1Rl_8sZozq0eMtyDKRtni2-hEW1C_MCGvZaLk2D3L_v
+#EXTINF:-1 xui-id="572687" tvg-id="" tvg-name="MILENIO OPC 1" tvg-logo="https://i.ibb.co/vJ1nCLt/mx-milenio-tv-m.png" group-title="NOTICIAS",MILENIO OPC 1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7s96KNL_4cZljpJdMtAajudORAKjxYRxt0fm2chijVG
+
+#EXTINF:-1 xui-id="572846" tvg-id="" tvg-name="MULTIMEDIOS" tvg-logo="https://pbs.twimg.com/media/ERj-Rw5UYAATFs4.png" group-title="MEXICO",MULTIMEDIOS
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q5xOWTiqHXhu2TH0W-ZHHCrHrTB7JPPEN_FW_6JGkdip
+#EXTINF:-1 xui-id="572848" tvg-id="" tvg-name="MULTIMEDIOS BAJIO" tvg-logo="https://pbs.twimg.com/media/ERj-Rw5UYAATFs4.png" group-title="MEXICO",MULTIMEDIOS BAJIO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8NCInVfALyYqORaIRttdobZBNYbRLxtvWD7QYkDTfDA
+
+#EXTINF:-1 xui-id="572850" tvg-id="" tvg-name="MULTIMEDIOS GUADALAJARA" tvg-logo="https://pbs.twimg.com/media/ERj-Rw5UYAATFs4.png" group-title="MEXICO",MULTIMEDIOS GUADALAJARA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qw99sa0fj7ZkgVRQt_LVcWrR_u6POGDKdEIO_YnnDXkq
+#EXTINF:-1 xui-id="572700" tvg-id="" tvg-name="MULTIMEDIOS JUAREZ" tvg-logo="https://pbs.twimg.com/media/ERj-Rw5UYAATFs4.png" group-title="MEXICO",MULTIMEDIOS JUAREZ
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q614j7-4SqyxQxipIDJ5V3wYq_Jv0bsAswrpVVC12ojF
+
+#EXTINF:-1 xui-id="572735" tvg-id="" tvg-name="RTQ QUERETARO" tvg-logo="https://arestv.vip/images/-kRhDmGtaRfxVEGEnqonPUm9FySn7HsoyIKktEyTcqq0x-h8Zpb--N5u7mP4Gtah.png" group-title="MEXICO",RTQ QUERETARO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q829XOPs8CxcenLnucDb9JdU9GDwUpmUPqK3oer9vFt1
+#EXTINF:-1 xui-id="641553" tvg-id="" tvg-name="TELE YUCATAN" tvg-logo="http://onerestream.us/images/CVYTwmEJLRXyxsIOD2gej5iLYDSisdrrPRIK6znU6iU.png" group-title="MEXICO",TELE YUCATAN
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8wdN5YWh4ggj4S_an5eWLsZKfTbzdlGwqwFSRF9ccnq
+#EXTINF:-1 xui-id="598882" tvg-id="" tvg-name="TELEFORMULA" tvg-logo="https://1.bp.blogspot.com/-tONcdV2Tt5o/Xu6RWoh4QPI/AAAAAAAAJ7I/m4j6YGNPVdoN4a24cTlTElWDYFiwSI_7gCLcBGAsYHQ/s1600/teleformula.png" group-title="NOTICIAS",TELEFORMULA
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QzMeVTi8nOamR36CJ0-7s6jwGMZ5ReifpGkFNlI4goVR
+#EXTINF:-1 xui-id="572758" tvg-id="" tvg-name="TELEHIT" tvg-logo="https://goldenlatino.vip/images/tnOtBR0uzjiCBN18SWyRbCJ9HoPJezMsaJOfP_VvWichIq7Uy9CiQsziBxuz8b0l.png" group-title="MUSICA",TELEHIT
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q4CxfrrhEuSys6JdqP47AyZ-axT2y8pTsvlNlDXvh6PS
+#EXTINF:-1 xui-id="572759" tvg-id="" tvg-name="TELEMAX" tvg-logo="https://astramain.xyz/images/ayfdHaSGfQQ7HLxmvsjLePFL2K8XYmWjpB_wyxWgojzRZ_Yz4K8DOIppwSaLkq7_cNHCT6oKEMyXRdtWGSwTng.png" group-title="MEXICO",TELEMAX
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q7PrAuI05JJhLK4ylCJ-a23ab8idFDKCbQRg1SAJaDru
+#EXTINF:-1 xui-id="572762" tvg-id="" tvg-name="TELERITMO" tvg-logo="https://arestv.vip/images/-kRhDmGtaRfxVEGEnqonPUbM5a3WwIt3Kk0meHm06qzhADufsTqYSph3qQ0MdlPr.png" group-title="MUSICA",TELERITMO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qx5qDtVBGV-jacLJ6DP5GvdPTYquPeISkX7jvlcl09zC
+#EXTINF:-1 xui-id="572865" tvg-id="" tvg-name="TELEVISA MONTERREY" tvg-logo="https://i.imgur.com/KYQi0uA.png" group-title="MEXICO",TELEVISA MONTERREY
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q8cOu9gFWBt4JaHZXHqNkuOYXueJnIBuxH8My2nQSUJf
+
+#EXTINF:-1 xui-id="572775" tvg-id="" tvg-name="TLNOVELAS OPC.1" tvg-logo="https://astramain.xyz/images/LDN_2LoxNi45aNO9u6WClHzJmi5HrXLRK4arQOz_5izEiVclfjmzB3mUg37s4scw.png" group-title="ENTRETENIMIENTO",TLNOVELAS OPC.1
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Qw7SdkwQvnfchVFoQYJi1UIc5osf7EhLVq4iGdgfe92P
+
+#EXTINF:-1 xui-id="572790" tvg-id="" tvg-name="TV LOBO" tvg-logo="http://icomplay.net:80/images/eipL1Fhf_W4MsgE9SnXppvh7i33Srb7uYGhJnlkmLJUr4g2Mlf07iVlVdYn31jQX.png" group-title="MEXICO",TV LOBO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q0Lkw3qsYNjVt7__0CLYLlWEzkbTN0DB7Yjgmbr9YzUe
+#EXTINF:-1 xui-id="572868" tvg-id="" tvg-name="TV MAS VERACRUZ" tvg-logo="https://efacico.files.wordpress.com/2018/01/tvmas.png" group-title="MEXICO",TV MAS VERACRUZ
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q_eaRaUY-WxxkTEOWDLv3H4XFnQH_kt6H91WRJeLsy93
+#EXTINF:-1 xui-id="598890" tvg-id="" tvg-name="TV UNAM" tvg-logo="https://i.imgur.com/gRspLjD.png" group-title="MEXICO",TV UNAM
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4QxpMfnVk1BcyXEZ7_Q5sS5hTHgNeHN3wfrpqg-pFzMN4
+
+#EXTINF:-1 xui-id="572794" tvg-id="" tvg-name="TVP CULIACAN" tvg-logo="http://icomplay.net:80/images/SyQb0CSmjWAheouRMfZPMa51re76C4eO8Hd8XiwP4xoELFAA4Zrm4Mj-wIi2OfZZ.png" group-title="MEXICO",TVP CULIACAN
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q6Cw3OL6wyrZ-_3ll5bvaz7mv9z9NMeOPjyPd8TWhsh9
+
+#EXTINF:-1 xui-id="601494" tvg-id="" tvg-name="TVT TABASCO" tvg-logo="http://onerestream.us/images/5yO0q3KiCJJhxVmvmdRMb_HFH_tN86yaoR07X9sDnwE.png" group-title="MEXICO",TVT TABASCO
+http://vionixtv.lat:80/play/a1GxcnYPII4Tl-ny6EF4Q3axQOC-mBrolh1iEoDXt-aQY72S8UjDB_eYu5tmcOGa
 
 #*****************************CANALES DE MEXICO 2
-#*****************************
+#***************************** 20
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="",TV MÁS(360p)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
@@ -801,10 +1304,10 @@ https://servilive.com:3263/live/channel12live.m3u8
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
 #*****************************CANALES DE ARGENTINA 1
-#*****************************
+#***************************** 21
 
 #*****************************CANALES DE ARGENTINA 2
-#*****************************
+#***************************** 22
 
 #EXTINF:-1, tvg-id="5tv.ar",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
